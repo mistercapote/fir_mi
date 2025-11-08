@@ -1,0 +1,21 @@
+id_localidade,cep,municipio,uf,endereco
+11,20000011,Rio de Janeiro,RJ,Rua K
+12,20000012,São Paulo,SP,Av. L
+13,20000013,Niterói,RJ,Rua M
+14,20000014,Belo Horizonte,MG,Av. N
+15,20000015,Curitiba,PR,Rua O
+16,20000016,Fortaleza,CE,Av. P
+17,20000017,Salvador,BA,Rua Q
+18,20000018,Brasília,DF,Av. R
+19,20000019,Porto Alegre,RS,Rua S
+20,20000020,Recife,PE,Av. T
+21,20000021,Manaus,AM,Rua U
+22,20000022,Florianópolis,SC,Av. V
+23,20000023,Vitória,ES,Rua W
+24,20000024,Goiânia,GO,Av. X
+25,20000025,Campinas,SP,Rua Y
+26,20000026,São Luís,MA,Av. Z
+27,20000027,Maceió,AL,Rua AA
+28,20000028,Teresina,PI,Av. BB
+29,20000029,João Pessoa,PB,Rua CC
+30,20000030,Natal,RN,Av. DD

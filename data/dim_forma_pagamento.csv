@@ -1,0 +1,6 @@
+id_forma_pagamento,forma_pagamento
+1,Dinheiro
+2,Cartão Débito
+3,Cartão Crédito
+4,PIX
+5,App Pagamento

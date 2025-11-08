@@ -1,0 +1,1431 @@
+id_calendario,id_funcionario,id_veiculo,valor_despesa,tipo_despesa,descricao,hora_compra
+22,21,11,150.00,MANUTENCAO,Troca de filtro de ar,12:00:00
+61,21,12,600.00,MANUTENCAO,Revisão elétrica,12:00:00
+168,21,13,400.00,MANUTENCAO,Troca de correia,12:00:00
+5,21,14,800.00,MANUTENCAO,Reparo no sistema de ar,12:00:00
+216,21,15,1200.00,MANUTENCAO,Troca de amortecedores,12:00:00
+261,21,16,350.00,MANUTENCAO,Revisão preventiva,12:00:00
+76,21,17,300.00,MANUTENCAO,Troca de pastilhas de freio,12:00:00
+54,21,18,280.00,MANUTENCAO,Alinhamento e balanceamento,12:00:00
+232,21,19,320.00,MANUTENCAO,Troca de óleo e filtro,12:00:00
+276,21,20,1800.00,MANUTENCAO,Reparo na transmissão,12:00:00
+213,21,21,250.00,MANUTENCAO,Troca de velas,12:00:00
+181,21,22,450.00,MANUTENCAO,Revisão do sistema de freio,12:00:00
+215,21,23,700.00,MANUTENCAO,Troca de radiador,12:00:00
+253,21,24,950.00,MANUTENCAO,Reparo na carroceria,12:00:00
+217,21,25,550.00,MANUTENCAO,Troca de para-brisa,12:00:00
+272,21,26,1100.00,MANUTENCAO,Revisão completa,12:00:00
+162,21,27,480.00,MANUTENCAO,Troca de bomba de combustível,12:00:00
+70,21,28,750.00,MANUTENCAO,Reparo no sistema de direção,12:00:00
+51,21,29,200.00,MANUTENCAO,Troca de lanternas,12:00:00
+271,21,30,650.00,MANUTENCAO,Revisão do sistema de ar condicionado,12:00:00
+278,21,29,236.72,MANUTENCAO,Quam quisquam alias nobis suscipit.,12:00:00
+189,21,11,1859.46,MANUTENCAO,Ex officiis animi nesciunt adipisci.,12:00:00
+5,21,15,1727.50,MANUTENCAO,Praesentium nulla aliquid provident magni.,12:00:00
+252,21,18,897.49,MANUTENCAO,Et possimus nostrum consequatur quidem.,12:00:00
+196,21,12,2854.19,MANUTENCAO,Eius pariatur eveniet ipsum at.,12:00:00
+220,21,28,1294.22,MANUTENCAO,Voluptate est rerum fugit.,12:00:00
+269,21,17,752.31,MANUTENCAO,Quibusdam modi porro maxime.,12:00:00
+103,21,12,718.11,MANUTENCAO,Quis placeat facere ratione.,12:00:00
+19,21,16,800.80,MANUTENCAO,Placeat quidem optio.,12:00:00
+24,21,31,4856.80,MANUTENCAO,Explicabo odio reprehenderit.,12:00:00
+55,21,27,4775.97,MANUTENCAO,Expedita quas exercitationem alias enim dignissimos.,12:00:00
+33,21,11,485.95,MANUTENCAO,Odit blanditiis magni itaque iure a.,12:00:00
+53,21,34,1931.84,MANUTENCAO,Ea nulla odio perspiciatis eum rerum.,12:00:00
+57,21,34,422.27,MANUTENCAO,Doloremque aspernatur sapiente adipisci suscipit.,12:00:00
+19,21,32,1366.67,MANUTENCAO,Expedita quisquam ipsa ipsam ab quaerat commodi.,12:00:00
+108,21,29,1638.64,MANUTENCAO,Quis assumenda fugiat quis nemo nam illo.,12:00:00
+248,21,26,345.10,MANUTENCAO,Officiis itaque animi unde cum culpa necessitatibus.,12:00:00
+81,21,19,2323.61,MANUTENCAO,Quisquam similique enim natus ullam.,12:00:00
+104,21,39,3820.44,MANUTENCAO,Ea explicabo maxime esse iste.,12:00:00
+187,21,19,1520.40,MANUTENCAO,Iure quos dolores ab tempore.,12:00:00
+197,21,12,2052.31,MANUTENCAO,Suscipit atque dignissimos blanditiis similique.,12:00:00
+99,21,11,1603.49,MANUTENCAO,Tempora illo recusandae accusamus itaque.,12:00:00
+112,21,18,3246.65,MANUTENCAO,Deserunt amet omnis ducimus molestiae unde.,12:00:00
+118,21,34,4219.10,MANUTENCAO,Adipisci quos placeat corrupti libero.,12:00:00
+97,21,14,1077.54,MANUTENCAO,Incidunt quaerat itaque delectus maiores dignissimos temporibus cumque.,12:00:00
+87,21,13,3057.15,MANUTENCAO,Recusandae accusamus ipsum esse maxime.,12:00:00
+158,21,30,3529.35,MANUTENCAO,Dolores dolore illo consequuntur.,12:00:00
+219,21,21,2189.25,MANUTENCAO,Ut doloribus doloribus aperiam.,12:00:00
+1,21,19,3103.58,MANUTENCAO,Officiis tempore eum ad excepturi quasi.,12:00:00
+87,21,42,3334.87,MANUTENCAO,Rerum quos at inventore.,12:00:00
+134,21,33,4343.13,MANUTENCAO,Hic tempora sed non a.,12:00:00
+155,21,12,2288.05,MANUTENCAO,Ipsa similique ducimus atque sapiente nostrum numquam.,12:00:00
+226,21,37,1163.94,MANUTENCAO,Quae libero quibusdam officia.,12:00:00
+218,21,27,2212.02,MANUTENCAO,Odit quis nostrum.,12:00:00
+95,21,18,4147.58,MANUTENCAO,Non rem esse.,12:00:00
+295,21,27,1837.91,MANUTENCAO,Neque sed ratione veniam corrupti dolor voluptates ut.,12:00:00
+109,21,42,2415.82,MANUTENCAO,Aliquam rem deserunt eius recusandae.,12:00:00
+267,21,18,1537.50,MANUTENCAO,Ex qui alias ab minima explicabo facere maiores.,12:00:00
+84,21,24,2212.62,MANUTENCAO,Inventore voluptas quidem mollitia nulla non est.,12:00:00
+227,21,40,1588.96,MANUTENCAO,Debitis earum omnis delectus praesentium sequi pariatur.,12:00:00
+161,21,35,1592.06,MANUTENCAO,Laboriosam accusantium iste quidem maiores.,12:00:00
+111,21,33,2267.43,MANUTENCAO,Ea quas reprehenderit.,12:00:00
+273,21,26,4852.46,MANUTENCAO,Dolorum atque temporibus sunt quaerat eos voluptas.,12:00:00
+252,21,30,679.79,MANUTENCAO,Itaque cumque ratione optio doloribus odit asperiores.,12:00:00
+207,21,41,2185.26,MANUTENCAO,Eius optio cumque neque aliquam.,12:00:00
+9,21,26,4350.50,MANUTENCAO,Provident consequatur delectus a.,12:00:00
+83,21,39,3700.83,MANUTENCAO,Totam pariatur error consectetur iusto explicabo cupiditate.,12:00:00
+170,21,36,1325.00,MANUTENCAO,Facere nihil eum et.,12:00:00
+145,21,28,4661.08,MANUTENCAO,Iure quae nam tempora sunt possimus temporibus.,12:00:00
+125,21,24,4059.76,MANUTENCAO,Exercitationem dicta labore atque unde.,12:00:00
+238,21,26,1039.54,MANUTENCAO,Sapiente ipsa enim deleniti iusto aspernatur.,12:00:00
+48,21,35,4168.48,MANUTENCAO,Expedita ea debitis occaecati.,12:00:00
+61,21,31,1870.80,MANUTENCAO,Aut reprehenderit in sunt reiciendis at.,12:00:00
+118,21,33,233.95,MANUTENCAO,Fuga omnis vel saepe hic ut libero doloremque.,12:00:00
+4,21,34,3608.74,MANUTENCAO,Non occaecati debitis accusamus sunt totam voluptatem.,12:00:00
+27,21,43,1828.75,MANUTENCAO,Fuga qui nulla aspernatur.,12:00:00
+1,21,43,4457.08,MANUTENCAO,Nobis quia eaque aliquam unde quas fugiat.,12:00:00
+249,21,35,4358.00,MANUTENCAO,Beatae tempora beatae cum suscipit sed nemo.,12:00:00
+49,21,30,3718.70,MANUTENCAO,Dolorum unde occaecati sequi ullam ut.,12:00:00
+140,21,12,1893.01,MANUTENCAO,Aliquid nisi illum distinctio consequuntur dolore.,12:00:00
+178,21,43,435.42,MANUTENCAO,Excepturi perferendis temporibus nam recusandae eligendi.,12:00:00
+28,21,38,808.67,MANUTENCAO,Aut tenetur quidem expedita.,12:00:00
+139,21,43,3284.14,MANUTENCAO,Voluptas ducimus debitis ratione quibusdam sint sit.,12:00:00
+107,21,32,1964.71,MANUTENCAO,Harum molestiae repellat qui possimus quibusdam.,12:00:00
+268,21,46,2408.53,MANUTENCAO,Cumque odit commodi aliquid sunt.,12:00:00
+20,21,45,4821.61,MANUTENCAO,Nulla ipsum dolorem natus excepturi totam dolores quidem.,12:00:00
+226,21,39,3517.84,MANUTENCAO,Nemo blanditiis iure quasi omnis deserunt tempora.,12:00:00
+297,21,29,1667.03,MANUTENCAO,Sit minima repellendus nesciunt id praesentium.,12:00:00
+258,21,11,4142.22,MANUTENCAO,Illo exercitationem iure dolor porro.,12:00:00
+80,21,47,3731.74,MANUTENCAO,Exercitationem veritatis corrupti.,12:00:00
+63,21,29,1918.23,MANUTENCAO,Ipsa repellat natus quasi nostrum earum.,12:00:00
+169,21,38,3314.88,MANUTENCAO,Dolorem sunt nulla.,12:00:00
+51,21,46,1875.17,MANUTENCAO,Quos veritatis eos id.,12:00:00
+61,21,42,2479.77,MANUTENCAO,Sint maiores dolores.,12:00:00
+250,21,22,1094.79,MANUTENCAO,Quaerat doloremque corrupti.,12:00:00
+10,21,28,558.40,MANUTENCAO,Atque rem nisi ipsam tenetur.,12:00:00
+23,21,23,4162.37,MANUTENCAO,Accusamus aliquam animi incidunt.,12:00:00
+8,21,29,4044.53,MANUTENCAO,Ullam inventore fugit provident unde.,12:00:00
+166,21,12,3795.94,MANUTENCAO,Atque quae aliquam deserunt.,12:00:00
+56,21,33,1558.71,MANUTENCAO,Fugit odio ex odio minima iusto odio perspiciatis.,12:00:00
+240,21,37,4609.88,MANUTENCAO,Incidunt quaerat nulla est.,12:00:00
+212,21,43,4267.98,MANUTENCAO,Dolore nisi inventore natus.,12:00:00
+291,21,42,3628.82,MANUTENCAO,Fuga debitis similique natus.,12:00:00
+99,21,49,1773.91,MANUTENCAO,Fuga sed ducimus laboriosam illum ducimus repudiandae.,12:00:00
+225,21,36,2692.32,MANUTENCAO,Distinctio neque ex perferendis neque exercitationem modi.,12:00:00
+72,21,17,3480.89,MANUTENCAO,Distinctio omnis inventore enim architecto.,12:00:00
+25,21,33,2849.70,MANUTENCAO,Totam quae quisquam aut molestias ullam labore.,12:00:00
+31,21,20,1984.17,MANUTENCAO,Dicta eaque officia ut aliquam.,12:00:00
+9,21,52,873.42,MANUTENCAO,Cumque suscipit dolore aliquid corporis aliquid numquam.,12:00:00
+177,21,28,3339.33,MANUTENCAO,Labore cupiditate veniam.,12:00:00
+150,21,24,1432.80,MANUTENCAO,Dolores iure cum pariatur explicabo.,12:00:00
+2,21,50,4333.69,MANUTENCAO,Voluptate nulla in saepe quo.,12:00:00
+46,21,44,4816.18,MANUTENCAO,Debitis veritatis sunt animi repellat enim autem commodi.,12:00:00
+270,21,14,2033.14,MANUTENCAO,Quaerat odio officia consequatur.,12:00:00
+93,21,38,2014.26,MANUTENCAO,Perferendis quibusdam dignissimos iusto hic minima optio.,12:00:00
+12,21,36,3456.91,MANUTENCAO,Vero deserunt voluptatum facere accusamus.,12:00:00
+303,21,12,1567.45,MANUTENCAO,Aut nam necessitatibus.,12:00:00
+99,21,21,1137.93,MANUTENCAO,Itaque fugiat unde omnis alias dicta ullam.,12:00:00
+42,21,20,3852.00,MANUTENCAO,Nostrum voluptatum temporibus eveniet voluptas tenetur.,12:00:00
+13,21,57,2051.34,MANUTENCAO,Eius atque animi perspiciatis ipsum.,12:00:00
+299,21,58,3981.17,MANUTENCAO,Facilis qui natus magni ea iusto iste.,12:00:00
+126,21,12,4169.13,MANUTENCAO,Praesentium impedit optio ex.,12:00:00
+135,21,19,3193.50,MANUTENCAO,Consectetur ab culpa pariatur minus dolore dicta.,12:00:00
+40,21,20,763.77,MANUTENCAO,Hic tempora molestias quod enim eos sed.,12:00:00
+170,21,13,4990.06,MANUTENCAO,Repellat sint reprehenderit vitae assumenda aut enim.,12:00:00
+220,21,48,2623.19,MANUTENCAO,Corrupti enim quam adipisci sequi minima.,12:00:00
+276,21,45,2874.62,MANUTENCAO,Possimus adipisci veniam.,12:00:00
+248,21,24,4249.01,MANUTENCAO,Similique nisi fugit eum eius ab provident.,12:00:00
+216,21,31,2214.76,MANUTENCAO,Corporis at impedit corrupti quas non ullam.,12:00:00
+18,21,39,2040.65,MANUTENCAO,Nisi eum doloribus nostrum facere.,12:00:00
+250,21,52,3473.88,MANUTENCAO,Quisquam tempora sequi.,12:00:00
+209,21,52,1866.10,MANUTENCAO,Facere vero minus ducimus vitae nostrum incidunt.,12:00:00
+262,21,47,4826.34,MANUTENCAO,Minus nobis non libero.,12:00:00
+249,21,12,3154.79,MANUTENCAO,Dolore beatae numquam magni quod voluptatibus.,12:00:00
+244,21,13,4083.85,MANUTENCAO,Nesciunt vitae quibusdam nam nemo consectetur.,12:00:00
+187,21,42,2818.27,MANUTENCAO,Laudantium beatae corporis dolores pariatur.,12:00:00
+213,21,50,1768.21,MANUTENCAO,Provident ullam praesentium provident.,12:00:00
+159,21,41,4737.02,MANUTENCAO,Incidunt laudantium eaque amet.,12:00:00
+39,21,41,2699.58,MANUTENCAO,Assumenda repudiandae maiores quaerat sequi temporibus doloremque eligendi.,12:00:00
+215,21,50,2015.82,MANUTENCAO,Architecto voluptate architecto quisquam veritatis.,12:00:00
+90,21,28,2794.75,MANUTENCAO,Repellat iure aspernatur aspernatur illo.,12:00:00
+233,21,13,2324.41,MANUTENCAO,Vel minima et expedita.,12:00:00
+53,21,59,883.95,MANUTENCAO,Minima dolore deserunt minus.,12:00:00
+190,21,51,3835.40,MANUTENCAO,Voluptatem qui suscipit.,12:00:00
+163,21,48,1078.58,MANUTENCAO,Optio minima ab nisi nihil esse illo.,12:00:00
+43,21,29,4537.28,MANUTENCAO,Eveniet libero commodi cupiditate doloremque nesciunt repellendus.,12:00:00
+261,21,43,3236.13,MANUTENCAO,Aperiam ab nesciunt voluptates repellat nobis harum harum.,12:00:00
+202,21,32,3460.71,MANUTENCAO,Veritatis quidem sapiente nam itaque sequi.,12:00:00
+94,21,34,1294.87,MANUTENCAO,Natus optio deleniti ipsam impedit quia consequatur.,12:00:00
+262,21,15,1462.73,MANUTENCAO,Unde distinctio officiis illum pariatur commodi sit ea.,12:00:00
+295,21,19,4711.36,MANUTENCAO,Quos esse accusamus nulla voluptates numquam inventore beatae.,12:00:00
+142,21,71,4460.03,MANUTENCAO,Officia laboriosam consequatur doloremque maiores odio.,12:00:00
+116,21,50,3469.93,MANUTENCAO,Ipsam reprehenderit neque possimus similique.,12:00:00
+186,21,64,846.03,MANUTENCAO,Error ea odio minima.,12:00:00
+178,21,73,731.80,MANUTENCAO,Fugiat quidem dolorem odio.,12:00:00
+84,21,41,4748.38,MANUTENCAO,Ullam recusandae cumque quia totam facilis distinctio.,12:00:00
+26,21,27,839.00,MANUTENCAO,Perferendis ducimus quam voluptates distinctio nemo consequatur.,12:00:00
+158,21,25,739.98,MANUTENCAO,Eos maxime sit ipsa atque sint enim.,12:00:00
+157,21,22,1383.47,MANUTENCAO,Mollitia est at harum quia culpa eveniet.,12:00:00
+237,21,73,4224.08,MANUTENCAO,Inventore repudiandae tempore aut architecto accusamus alias.,12:00:00
+119,21,12,3944.76,MANUTENCAO,Earum in aliquid similique.,12:00:00
+156,21,29,3393.43,MANUTENCAO,Quidem veritatis minus blanditiis porro expedita.,12:00:00
+24,21,67,1996.01,MANUTENCAO,Mollitia distinctio corporis veniam aut.,12:00:00
+205,21,37,1397.04,MANUTENCAO,Totam consequatur alias quidem.,12:00:00
+264,21,30,1858.45,MANUTENCAO,Tempora occaecati debitis nostrum corrupti veritatis.,12:00:00
+263,21,15,1612.94,MANUTENCAO,Laborum voluptate minus.,12:00:00
+260,21,53,3295.55,MANUTENCAO,Quidem dolor magnam a quidem.,12:00:00
+164,21,13,4697.88,MANUTENCAO,Hic reprehenderit quam ea neque minus.,12:00:00
+134,21,70,4475.97,MANUTENCAO,Ratione omnis deleniti alias aliquam odit.,12:00:00
+193,21,38,918.96,MANUTENCAO,Provident provident aspernatur facilis earum.,12:00:00
+45,21,45,3221.43,MANUTENCAO,At dolorem quasi eum doloribus dolore iusto.,12:00:00
+218,21,32,3284.01,MANUTENCAO,Doloribus dolorem nam voluptas.,12:00:00
+46,21,72,4931.05,MANUTENCAO,Commodi sint beatae facilis odio veritatis quae.,12:00:00
+114,21,23,4446.96,MANUTENCAO,Doloremque deserunt itaque nihil.,12:00:00
+47,21,48,4582.33,MANUTENCAO,Tempore alias et temporibus rem.,12:00:00
+195,21,82,842.59,MANUTENCAO,Praesentium odio neque illum non inventore nemo harum.,12:00:00
+196,21,11,3953.59,MANUTENCAO,Doloremque quisquam ut cumque ea perspiciatis numquam.,12:00:00
+16,21,68,831.60,MANUTENCAO,Eos et est minima ratione commodi quas quos.,12:00:00
+109,21,70,4375.40,MANUTENCAO,Nam quod perspiciatis nisi excepturi repudiandae.,12:00:00
+140,21,59,4617.04,MANUTENCAO,In eveniet assumenda debitis cumque.,12:00:00
+284,21,78,421.65,MANUTENCAO,Laborum quisquam sint accusamus.,12:00:00
+301,21,69,3239.96,MANUTENCAO,Quia adipisci ducimus perferendis.,12:00:00
+254,21,49,459.54,MANUTENCAO,Impedit maiores debitis molestias voluptatum adipisci neque.,12:00:00
+109,21,83,1427.42,MANUTENCAO,Alias reprehenderit ad doloribus nulla deleniti autem.,12:00:00
+135,21,34,3642.85,MANUTENCAO,Quisquam corporis quibusdam quam impedit ut.,12:00:00
+3,21,56,3577.08,MANUTENCAO,Illo dicta id quos aliquam architecto consectetur.,12:00:00
+212,21,54,1878.39,MANUTENCAO,Recusandae est omnis sunt officiis officia impedit.,12:00:00
+82,21,46,535.70,MANUTENCAO,Saepe dolore facilis rerum.,12:00:00
+100,21,66,3392.46,MANUTENCAO,Unde quasi quisquam deleniti.,12:00:00
+309,21,41,1263.68,MANUTENCAO,Iste rem commodi consequatur.,12:00:00
+247,21,29,1717.10,MANUTENCAO,Et iure magnam totam architecto magni debitis labore.,12:00:00
+65,21,48,4258.92,MANUTENCAO,Natus illo cum quos.,12:00:00
+274,21,35,1139.89,MANUTENCAO,Voluptates accusamus ut labore corrupti nemo aut hic.,12:00:00
+235,21,63,2457.31,MANUTENCAO,Atque maiores pariatur dignissimos dolore facere eum.,12:00:00
+190,21,68,2291.04,MANUTENCAO,Praesentium amet ducimus aut velit nostrum.,12:00:00
+7,21,18,4260.56,MANUTENCAO,Sed eos rerum incidunt aliquid optio veritatis.,12:00:00
+101,21,81,4950.08,MANUTENCAO,Nostrum consequatur animi perferendis pariatur ipsum.,12:00:00
+53,21,65,3960.45,MANUTENCAO,Ducimus ullam at incidunt aspernatur ut minima.,12:00:00
+24,21,30,4905.98,MANUTENCAO,Dolorum fugit tenetur natus dicta sed veniam.,12:00:00
+2,21,70,3551.83,MANUTENCAO,Est sapiente veritatis illum.,12:00:00
+134,21,23,2392.21,MANUTENCAO,Enim ducimus omnis recusandae itaque soluta molestias.,12:00:00
+249,21,72,3357.79,MANUTENCAO,Non esse quae magni ad ad debitis.,12:00:00
+165,21,16,1433.92,MANUTENCAO,Occaecati officia at delectus doloremque neque.,12:00:00
+101,21,79,4573.53,MANUTENCAO,Dignissimos id molestias vitae aliquam debitis sit.,12:00:00
+158,21,73,2607.89,MANUTENCAO,At iste est fugiat neque nam sint officiis.,12:00:00
+109,21,37,4488.49,MANUTENCAO,Architecto perferendis numquam minus sit.,12:00:00
+281,21,81,3308.46,MANUTENCAO,Porro nemo illum eius.,12:00:00
+34,21,35,2215.97,MANUTENCAO,Omnis earum voluptates nisi totam suscipit totam.,12:00:00
+41,21,19,4100.92,MANUTENCAO,Suscipit qui autem sapiente est eveniet.,12:00:00
+223,21,48,2639.54,MANUTENCAO,Expedita delectus fugit dolorem explicabo quod.,12:00:00
+64,21,34,2552.11,MANUTENCAO,Sit error ad architecto optio.,12:00:00
+312,21,39,4554.64,MANUTENCAO,Quia iure nobis dolorum.,12:00:00
+50,21,90,3175.48,MANUTENCAO,Placeat quos sint dolorum cumque omnis.,12:00:00
+79,21,82,418.39,MANUTENCAO,Amet cupiditate facilis.,12:00:00
+48,21,34,1881.34,MANUTENCAO,Animi blanditiis quam totam voluptatem modi.,12:00:00
+220,21,82,3716.76,MANUTENCAO,Eius repellat nam quas voluptatum voluptatibus fugit porro.,12:00:00
+5,21,54,4247.54,MANUTENCAO,Fugiat illo provident.,12:00:00
+262,21,48,129.61,MANUTENCAO,Sed neque vero corporis non autem quibusdam.,12:00:00
+48,21,28,846.48,MANUTENCAO,Placeat numquam aspernatur recusandae earum excepturi in.,12:00:00
+310,21,58,332.03,MANUTENCAO,Tenetur deserunt suscipit dolore cupiditate.,12:00:00
+186,21,24,832.13,MANUTENCAO,Officiis sed doloribus nam quidem perspiciatis quibusdam.,12:00:00
+237,21,30,1517.23,MANUTENCAO,Dolorem officiis neque sint consequuntur quod.,12:00:00
+176,21,70,3568.60,MANUTENCAO,Similique eaque fuga earum.,12:00:00
+149,21,58,2781.13,MANUTENCAO,Magni recusandae rerum.,12:00:00
+296,21,40,4383.34,MANUTENCAO,Sapiente asperiores ad sequi sapiente ad est.,12:00:00
+61,21,79,4045.37,MANUTENCAO,Esse praesentium veritatis illum.,12:00:00
+113,21,72,2505.62,MANUTENCAO,Voluptates culpa ratione ea laboriosam ipsa.,12:00:00
+21,21,73,4721.99,MANUTENCAO,Fugiat ratione sunt quidem perferendis commodi dolorem eveniet.,12:00:00
+117,21,92,1296.98,MANUTENCAO,Aut ut nemo soluta ea cum.,12:00:00
+292,21,93,3703.80,MANUTENCAO,Deleniti neque ipsa quos.,12:00:00
+101,21,41,4626.16,MANUTENCAO,Voluptatibus quidem ducimus qui libero.,12:00:00
+300,21,55,3621.38,MANUTENCAO,Natus at rerum sit.,12:00:00
+250,21,73,1684.72,MANUTENCAO,Commodi fugiat deleniti similique illo accusantium.,12:00:00
+196,21,42,2996.91,MANUTENCAO,Voluptates sapiente maxime.,12:00:00
+133,21,51,2731.20,MANUTENCAO,Beatae fuga reiciendis similique odit dignissimos eveniet architecto.,12:00:00
+165,21,89,4596.34,MANUTENCAO,Autem molestiae nostrum debitis.,12:00:00
+153,21,27,4082.67,MANUTENCAO,Minima placeat illo quasi velit quas ducimus a.,12:00:00
+54,21,50,2002.37,MANUTENCAO,Illum atque adipisci hic asperiores non odit.,12:00:00
+160,21,63,2884.14,MANUTENCAO,Vitae quibusdam earum amet officiis doloribus in.,12:00:00
+132,21,39,4239.58,MANUTENCAO,Ipsam beatae dolor porro voluptatum quasi.,12:00:00
+109,21,41,2014.91,MANUTENCAO,Impedit dolorum iusto cumque dignissimos commodi nesciunt at.,12:00:00
+129,21,86,3573.91,MANUTENCAO,Magnam perferendis sequi.,12:00:00
+123,21,40,727.57,MANUTENCAO,Perspiciatis fuga explicabo error quisquam soluta unde.,12:00:00
+135,21,12,4908.42,MANUTENCAO,Tenetur nam accusamus harum impedit neque.,12:00:00
+268,21,27,1599.54,MANUTENCAO,Assumenda porro maiores sapiente.,12:00:00
+5,21,98,3626.84,MANUTENCAO,Sapiente nesciunt dicta dolores consequatur facere ducimus quisquam.,12:00:00
+209,21,37,3824.94,MANUTENCAO,Hic eligendi facere veniam perspiciatis quis.,12:00:00
+156,21,67,2776.83,MANUTENCAO,Nisi dolor inventore adipisci quasi incidunt.,12:00:00
+42,21,29,3163.80,MANUTENCAO,Autem illum labore eius tempora possimus.,12:00:00
+244,21,62,4487.96,MANUTENCAO,Nemo blanditiis eaque quam.,12:00:00
+279,21,47,2064.91,MANUTENCAO,Atque ex dolores tempora.,12:00:00
+246,21,15,1302.56,MANUTENCAO,Dolores laudantium culpa animi vel.,12:00:00
+2,21,64,915.72,MANUTENCAO,Mollitia vero ad.,12:00:00
+193,21,92,1582.00,MANUTENCAO,Laboriosam impedit magnam consequuntur ad quo nam.,12:00:00
+153,21,18,4456.28,MANUTENCAO,Nemo delectus perferendis minima.,12:00:00
+234,21,41,2523.12,MANUTENCAO,Explicabo odit iure aspernatur.,12:00:00
+32,21,15,2607.66,MANUTENCAO,Quam corrupti necessitatibus atque.,12:00:00
+52,21,44,4722.77,MANUTENCAO,Inventore repellendus a deserunt.,12:00:00
+201,21,53,4920.65,MANUTENCAO,Qui quasi sunt reprehenderit.,12:00:00
+42,21,16,184.97,MANUTENCAO,Esse optio esse.,12:00:00
+226,21,99,3369.83,MANUTENCAO,Id officia ullam laudantium consequatur velit.,12:00:00
+278,21,74,2311.14,MANUTENCAO,Debitis enim minus voluptates sequi.,12:00:00
+144,21,76,4649.37,MANUTENCAO,Ullam rem aut asperiores voluptatem voluptas delectus.,12:00:00
+114,21,65,125.79,MANUTENCAO,Aliquam nemo eveniet.,12:00:00
+186,21,75,2349.17,MANUTENCAO,Perferendis nobis dolore ratione dolorum.,12:00:00
+133,21,87,2089.12,MANUTENCAO,Debitis sint sapiente inventore.,12:00:00
+54,21,66,822.35,MANUTENCAO,Voluptate repellat sequi quis temporibus.,12:00:00
+16,21,32,4257.96,MANUTENCAO,Maxime occaecati optio provident ipsa.,12:00:00
+292,21,113,4339.35,MANUTENCAO,Asperiores quis placeat eaque.,12:00:00
+291,21,77,718.28,MANUTENCAO,Enim ipsam in incidunt repudiandae laborum.,12:00:00
+23,21,84,2850.34,MANUTENCAO,Dignissimos earum voluptatem adipisci.,12:00:00
+143,21,102,4731.37,MANUTENCAO,Dolorem enim ut minus labore dolorum.,12:00:00
+60,21,46,3259.57,MANUTENCAO,Repellendus architecto eius labore.,12:00:00
+23,21,33,427.45,MANUTENCAO,Ipsum maxime veritatis doloremque labore ab eveniet.,12:00:00
+245,21,54,3356.26,MANUTENCAO,Tempore nihil nam ex incidunt doloribus.,12:00:00
+190,21,92,2656.63,MANUTENCAO,Labore quia non occaecati.,12:00:00
+219,21,27,4452.11,MANUTENCAO,Aspernatur inventore commodi fugiat aliquid.,12:00:00
+167,21,113,324.43,MANUTENCAO,Molestiae quod ipsam qui sint fugit.,12:00:00
+208,21,109,4323.75,MANUTENCAO,Explicabo harum consectetur necessitatibus.,12:00:00
+217,21,107,1768.07,MANUTENCAO,Sint veritatis veritatis maiores.,12:00:00
+212,21,47,689.99,MANUTENCAO,In ipsa rerum accusamus eligendi.,12:00:00
+185,21,28,2855.31,MANUTENCAO,Iure iste impedit praesentium.,12:00:00
+98,21,94,4438.04,MANUTENCAO,Tempora et repudiandae cum est commodi.,12:00:00
+248,21,108,4893.42,MANUTENCAO,Consequuntur mollitia delectus ex earum nulla fugiat.,12:00:00
+110,21,84,3823.55,MANUTENCAO,Facilis iure quae nihil.,12:00:00
+163,21,55,3661.08,MANUTENCAO,Voluptatum suscipit voluptatibus alias repellat harum voluptas.,12:00:00
+49,21,90,1089.68,MANUTENCAO,Mollitia assumenda debitis officiis repellendus voluptatem.,12:00:00
+131,21,59,4704.13,MANUTENCAO,Eum eaque commodi illum officiis.,12:00:00
+80,21,44,4554.02,MANUTENCAO,Eos unde commodi placeat minus numquam sed.,12:00:00
+185,21,75,676.10,MANUTENCAO,Quam nulla inventore provident.,12:00:00
+286,21,52,4909.16,MANUTENCAO,Magnam hic expedita ipsa saepe.,12:00:00
+312,21,13,3082.78,MANUTENCAO,Numquam dolores modi possimus quasi.,12:00:00
+81,21,111,3597.50,MANUTENCAO,Optio culpa doloremque hic accusantium recusandae.,12:00:00
+161,21,120,2989.76,MANUTENCAO,Quasi perspiciatis laboriosam maxime.,12:00:00
+2,21,111,3184.30,MANUTENCAO,Saepe corporis doloribus quisquam.,12:00:00
+239,21,61,2810.38,MANUTENCAO,Totam dolorum illum.,12:00:00
+24,21,53,3835.32,MANUTENCAO,Eos hic officia cum unde illo.,12:00:00
+134,21,62,1773.69,MANUTENCAO,Asperiores explicabo culpa est.,12:00:00
+312,21,56,3777.88,MANUTENCAO,Tempora eaque delectus labore incidunt impedit.,12:00:00
+121,21,69,111.74,MANUTENCAO,Dolores magni dignissimos atque laboriosam quasi.,12:00:00
+277,21,22,508.46,MANUTENCAO,Ad voluptate consequatur quo laboriosam nobis.,12:00:00
+23,21,101,901.75,MANUTENCAO,Necessitatibus atque nam saepe nemo fugiat.,12:00:00
+249,21,103,2454.31,MANUTENCAO,Esse dolores quam rerum aut.,12:00:00
+267,21,110,3102.86,MANUTENCAO,Eius et beatae iste in debitis iure vero.,12:00:00
+6,21,54,3424.80,MANUTENCAO,Ex nobis blanditiis harum cum dolor iste.,12:00:00
+61,21,95,4017.08,MANUTENCAO,Iste totam asperiores laboriosam accusamus a optio aliquam.,12:00:00
+295,21,75,656.77,MANUTENCAO,Qui doloribus voluptas porro.,12:00:00
+16,21,30,1586.09,MANUTENCAO,Sapiente veniam tempora nulla vero accusamus inventore.,12:00:00
+94,21,87,4536.44,MANUTENCAO,Ducimus non ullam ipsa.,12:00:00
+109,21,123,1467.56,MANUTENCAO,Repellendus reiciendis expedita.,12:00:00
+111,21,69,1402.18,MANUTENCAO,Reprehenderit laboriosam culpa inventore consequatur quisquam.,12:00:00
+142,21,99,1368.62,MANUTENCAO,Id consequuntur soluta accusamus at neque.,12:00:00
+221,21,46,3568.43,MANUTENCAO,Dolorum reiciendis illo minus voluptate exercitationem.,12:00:00
+151,21,79,717.79,MANUTENCAO,Libero nostrum enim suscipit assumenda totam sit nostrum.,12:00:00
+168,21,79,1339.41,MANUTENCAO,Excepturi odit repellendus cupiditate est occaecati.,12:00:00
+97,21,126,3721.44,MANUTENCAO,Adipisci dolorem vero voluptates.,12:00:00
+67,21,77,1398.68,MANUTENCAO,Nisi amet ea assumenda.,12:00:00
+139,21,120,3857.17,MANUTENCAO,Placeat facere hic assumenda nemo distinctio.,12:00:00
+274,21,12,4088.20,MANUTENCAO,Labore eveniet dolores laboriosam perferendis recusandae molestiae.,12:00:00
+275,21,16,2403.95,MANUTENCAO,Cum alias quidem sequi illo eligendi unde in.,12:00:00
+285,21,115,1267.93,MANUTENCAO,Maiores harum aperiam totam velit voluptatum sed deserunt.,12:00:00
+237,21,46,276.71,MANUTENCAO,Sed beatae voluptates sapiente.,12:00:00
+176,21,117,3310.20,MANUTENCAO,Corporis dolor repellendus.,12:00:00
+281,21,36,3602.32,MANUTENCAO,Est ex amet ullam.,12:00:00
+312,21,26,4239.58,MANUTENCAO,Odio ratione natus.,12:00:00
+31,21,101,3090.67,MANUTENCAO,Minima ipsam officia commodi.,12:00:00
+22,21,77,3116.57,MANUTENCAO,Occaecati itaque a illum harum illum earum.,12:00:00
+177,21,99,570.28,MANUTENCAO,Accusantium perspiciatis reiciendis facilis eos nulla.,12:00:00
+22,21,129,3689.40,MANUTENCAO,Maiores quibusdam non fugit explicabo.,12:00:00
+208,21,29,304.13,MANUTENCAO,Amet voluptatibus iure reprehenderit.,12:00:00
+220,21,71,2025.40,MANUTENCAO,Labore tempora labore tempore modi.,12:00:00
+247,21,123,3017.31,MANUTENCAO,Ad quo hic quos quam aspernatur.,12:00:00
+123,21,59,3162.90,MANUTENCAO,Corrupti rem rerum.,12:00:00
+213,21,85,3470.76,MANUTENCAO,Est cum voluptate sapiente alias odit.,12:00:00
+204,21,87,1139.76,MANUTENCAO,Atque in exercitationem cum tempore minus vel beatae.,12:00:00
+71,21,74,1104.95,MANUTENCAO,Nobis amet explicabo consectetur.,12:00:00
+72,21,67,4539.53,MANUTENCAO,Neque explicabo amet eveniet expedita suscipit.,12:00:00
+240,21,45,3621.77,MANUTENCAO,Nemo distinctio ad numquam.,12:00:00
+288,21,119,408.41,MANUTENCAO,Sint architecto quae minima autem officiis culpa.,12:00:00
+127,21,87,3426.57,MANUTENCAO,Nam possimus ipsum ipsum quis maxime fugit.,12:00:00
+26,21,111,3160.84,MANUTENCAO,Facilis illum asperiores tempore numquam commodi delectus.,12:00:00
+32,21,127,4248.68,MANUTENCAO,Dolorum possimus excepturi aliquam assumenda.,12:00:00
+253,21,80,4798.58,MANUTENCAO,Minima blanditiis harum omnis omnis vero eligendi.,12:00:00
+188,21,94,2516.22,MANUTENCAO,Molestiae animi delectus aspernatur vero adipisci unde.,12:00:00
+254,21,78,310.15,MANUTENCAO,Quam voluptatibus accusantium consequatur sunt.,12:00:00
+291,21,112,3872.85,MANUTENCAO,Quis deserunt vitae itaque aspernatur error recusandae.,12:00:00
+300,21,18,2882.51,MANUTENCAO,Neque velit distinctio mollitia.,12:00:00
+185,21,25,2623.49,MANUTENCAO,Possimus placeat id consectetur blanditiis nulla assumenda.,12:00:00
+133,21,85,2928.13,MANUTENCAO,Placeat eveniet dolor deleniti ipsa quo.,12:00:00
+78,21,50,3722.73,MANUTENCAO,Optio maxime quae in animi corrupti dicta neque.,12:00:00
+222,21,95,1798.02,MANUTENCAO,Quia repellendus amet est sit.,12:00:00
+56,21,94,1261.40,MANUTENCAO,Unde facilis doloribus molestiae accusamus sequi id.,12:00:00
+97,21,84,4880.62,MANUTENCAO,Nam iure sit temporibus quae odio sequi.,12:00:00
+212,21,33,3869.93,MANUTENCAO,A assumenda quae nostrum possimus corporis dolorum quam.,12:00:00
+76,21,116,523.47,MANUTENCAO,Molestiae sunt omnis qui.,12:00:00
+54,21,38,2428.97,MANUTENCAO,Accusamus repudiandae dolorum iste a eius eligendi.,12:00:00
+129,21,138,682.35,MANUTENCAO,Quibusdam similique omnis rerum voluptatum laborum.,12:00:00
+147,21,87,4364.27,MANUTENCAO,Repellendus enim odit laborum.,12:00:00
+270,21,68,576.98,MANUTENCAO,Quis dolorum ea laudantium consequuntur.,12:00:00
+240,21,113,554.87,MANUTENCAO,Tempore quam neque praesentium.,12:00:00
+9,21,124,437.88,MANUTENCAO,Maiores animi sequi.,12:00:00
+7,21,38,3609.11,MANUTENCAO,Sequi itaque quia numquam quod ipsam vitae.,12:00:00
+10,21,120,4091.52,MANUTENCAO,Assumenda ullam error deserunt natus.,12:00:00
+61,21,22,4507.38,MANUTENCAO,Cum fuga consequatur repudiandae laboriosam vitae praesentium ab.,12:00:00
+41,21,126,2325.07,MANUTENCAO,Nesciunt voluptas doloremque a illo.,12:00:00
+160,21,134,994.57,MANUTENCAO,Praesentium sapiente sit sunt.,12:00:00
+192,21,56,3955.54,MANUTENCAO,Voluptatibus dolorum tempore ullam.,12:00:00
+285,21,90,3557.72,MANUTENCAO,Dignissimos debitis autem.,12:00:00
+128,21,84,3486.76,MANUTENCAO,Tempora laborum ab explicabo perspiciatis est doloremque.,12:00:00
+117,21,44,406.40,MANUTENCAO,Facilis velit delectus suscipit.,12:00:00
+230,21,50,1073.42,MANUTENCAO,Voluptate nisi sint delectus magni.,12:00:00
+153,21,136,4293.33,MANUTENCAO,Blanditiis illum odit.,12:00:00
+48,21,144,2463.42,MANUTENCAO,Temporibus magni aperiam cum similique repudiandae eligendi.,12:00:00
+45,21,19,754.46,MANUTENCAO,Molestiae soluta beatae cumque iste dolore reiciendis neque.,12:00:00
+48,21,59,4371.82,MANUTENCAO,Dolores quia culpa at sit.,12:00:00
+3,21,89,4858.36,MANUTENCAO,Accusantium ipsa eveniet aspernatur fugiat repellendus.,12:00:00
+263,21,82,4723.22,MANUTENCAO,Assumenda numquam nihil itaque soluta consequuntur.,12:00:00
+190,21,61,3116.26,MANUTENCAO,Architecto harum labore assumenda id cumque.,12:00:00
+97,21,59,4509.53,MANUTENCAO,Blanditiis laborum ratione natus.,12:00:00
+228,21,20,902.71,MANUTENCAO,In molestiae odio minus.,12:00:00
+63,21,134,4263.13,MANUTENCAO,In soluta laboriosam cumque.,12:00:00
+75,21,65,807.68,MANUTENCAO,Iusto tempora pariatur accusamus officia velit modi.,12:00:00
+47,21,78,183.55,MANUTENCAO,Magnam ullam debitis facilis temporibus explicabo.,12:00:00
+294,21,27,1154.87,MANUTENCAO,Officia iusto maiores provident atque.,12:00:00
+136,21,129,1170.19,MANUTENCAO,Quae aliquid id illum nihil fugit atque.,12:00:00
+191,21,102,3776.64,MANUTENCAO,Architecto in eum.,12:00:00
+274,21,23,4377.48,MANUTENCAO,Voluptatem dignissimos itaque mollitia illum adipisci sapiente.,12:00:00
+212,21,26,569.95,MANUTENCAO,Delectus asperiores quo eaque.,12:00:00
+42,21,140,472.48,MANUTENCAO,Vitae at repudiandae laudantium animi.,12:00:00
+68,21,110,1782.31,MANUTENCAO,Perferendis aliquid minus quia ad illo.,12:00:00
+253,21,130,821.47,MANUTENCAO,Optio eius aperiam necessitatibus reprehenderit optio.,12:00:00
+189,21,142,4318.28,MANUTENCAO,Eos officia ea ducimus aut.,12:00:00
+263,21,139,3063.81,MANUTENCAO,Amet recusandae sit rem officia magni occaecati.,12:00:00
+237,21,94,4787.73,MANUTENCAO,Debitis voluptates veniam suscipit quam illum.,12:00:00
+50,21,147,4003.72,MANUTENCAO,Harum repudiandae libero repudiandae voluptatibus nobis.,12:00:00
+230,21,95,3889.25,MANUTENCAO,Possimus sit cumque dolores corporis.,12:00:00
+171,21,143,4998.12,MANUTENCAO,Nostrum alias inventore praesentium rerum odio nobis.,12:00:00
+58,21,48,1376.63,MANUTENCAO,Sunt modi quidem occaecati nisi rem labore.,12:00:00
+87,21,148,3473.71,MANUTENCAO,Perspiciatis quasi dolor facere mollitia odit debitis.,12:00:00
+225,21,59,4245.06,MANUTENCAO,Accusantium eaque doloremque assumenda.,12:00:00
+218,21,127,378.86,MANUTENCAO,Ex odit assumenda pariatur tempora optio quibusdam reiciendis.,12:00:00
+179,21,133,368.90,MANUTENCAO,Excepturi nihil delectus libero corporis.,12:00:00
+151,21,109,3946.98,MANUTENCAO,Corporis expedita fugit sunt dicta.,12:00:00
+69,21,151,4492.62,MANUTENCAO,Magni dolor deserunt pariatur provident perspiciatis.,12:00:00
+221,21,142,3566.86,MANUTENCAO,Adipisci ipsa numquam.,12:00:00
+241,21,108,791.16,MANUTENCAO,Esse quasi labore rem.,12:00:00
+39,21,13,1218.71,MANUTENCAO,Illum commodi iure doloribus quas culpa cumque modi.,12:00:00
+186,21,41,3129.90,MANUTENCAO,In veritatis qui consequuntur atque.,12:00:00
+144,21,99,3206.11,MANUTENCAO,Modi vitae magni quo vel itaque neque sint.,12:00:00
+238,21,124,3970.21,MANUTENCAO,Eligendi inventore non id nisi.,12:00:00
+102,21,138,2943.71,MANUTENCAO,Adipisci quaerat enim libero beatae.,12:00:00
+119,21,108,4824.11,MANUTENCAO,In reiciendis veritatis sapiente blanditiis sunt.,12:00:00
+123,21,16,1899.21,MANUTENCAO,Asperiores fuga nulla tempore aut quaerat animi.,12:00:00
+253,21,86,1085.78,MANUTENCAO,Tempore voluptate minus voluptate eligendi.,12:00:00
+5,21,25,236.01,MANUTENCAO,Deserunt nostrum eum nemo consectetur.,12:00:00
+115,21,37,3067.26,MANUTENCAO,Iure eos temporibus ab.,12:00:00
+209,21,150,2134.90,MANUTENCAO,Necessitatibus molestiae quam dolorem aliquam perspiciatis corporis.,12:00:00
+25,21,27,623.98,MANUTENCAO,Quos dolorum ipsa nesciunt autem aperiam.,12:00:00
+129,21,25,3229.18,MANUTENCAO,Deserunt molestiae dolorem assumenda nobis suscipit ipsa corrupti.,12:00:00
+103,21,13,2843.72,MANUTENCAO,Ipsam et velit animi nesciunt aperiam.,12:00:00
+87,21,56,870.27,MANUTENCAO,Minus omnis doloribus natus fugiat alias quis.,12:00:00
+291,21,122,1828.24,MANUTENCAO,Vel ipsa voluptatem consequatur nam quod veritatis.,12:00:00
+284,21,54,2903.13,MANUTENCAO,Voluptatum distinctio itaque rem esse numquam error.,12:00:00
+252,21,111,4590.25,MANUTENCAO,Sequi ab reprehenderit sint doloribus repellat.,12:00:00
+30,21,117,1207.32,MANUTENCAO,Quae quae ea corporis ut aliquid ab.,12:00:00
+211,21,36,4953.64,MANUTENCAO,Cum debitis quo quia explicabo.,12:00:00
+82,21,35,3947.23,MANUTENCAO,Amet error ratione exercitationem praesentium esse.,12:00:00
+302,21,99,1309.17,MANUTENCAO,Dolor voluptate minima maxime minus consequatur earum.,12:00:00
+156,21,85,4416.20,MANUTENCAO,Facere soluta repudiandae illum.,12:00:00
+185,21,155,2768.48,MANUTENCAO,Eum nesciunt deserunt quia quas eius in.,12:00:00
+286,21,127,2633.15,MANUTENCAO,Molestiae ipsa deleniti.,12:00:00
+30,21,20,1251.84,MANUTENCAO,Quia architecto perferendis tenetur non assumenda esse.,12:00:00
+94,21,153,2832.74,MANUTENCAO,Qui tempore repudiandae reprehenderit odio.,12:00:00
+94,21,112,4475.32,MANUTENCAO,Odit libero soluta quaerat ipsa rerum.,12:00:00
+7,21,72,839.79,MANUTENCAO,Id quaerat eos in.,12:00:00
+230,21,48,152.59,MANUTENCAO,Optio voluptate consequatur.,12:00:00
+148,21,100,4495.44,MANUTENCAO,Eaque ut placeat vero.,12:00:00
+189,21,76,3718.73,MANUTENCAO,Aperiam facere illo dolorum.,12:00:00
+276,21,134,1151.90,MANUTENCAO,Accusamus earum consequatur illum dolorem perspiciatis.,12:00:00
+294,21,107,3885.79,MANUTENCAO,Tempore libero optio ipsam nobis recusandae quis eius.,12:00:00
+35,21,110,3498.31,MANUTENCAO,Alias expedita eius suscipit cumque placeat consequatur ad.,12:00:00
+96,21,24,2415.03,MANUTENCAO,Nam corrupti vero.,12:00:00
+99,21,88,4525.25,MANUTENCAO,Impedit itaque nam aspernatur voluptas quo voluptatibus.,12:00:00
+190,21,120,4952.77,MANUTENCAO,Laudantium nobis fuga at aperiam ut autem necessitatibus.,12:00:00
+271,21,157,646.34,MANUTENCAO,Ea occaecati quae at adipisci.,12:00:00
+287,21,121,2864.41,MANUTENCAO,At voluptatem eius aut tempore.,12:00:00
+269,21,55,1436.77,MANUTENCAO,Veniam molestias assumenda.,12:00:00
+3,21,16,3344.96,MANUTENCAO,Temporibus nisi sint voluptatem modi impedit blanditiis cupiditate.,12:00:00
+114,21,61,3777.05,MANUTENCAO,Dolorem velit accusamus culpa facilis recusandae.,12:00:00
+91,21,136,3949.09,MANUTENCAO,Esse exercitationem molestiae error aut voluptate voluptates.,12:00:00
+193,21,12,3657.75,MANUTENCAO,Tempora ratione sit perspiciatis.,12:00:00
+84,21,38,3588.51,MANUTENCAO,Reprehenderit cumque quis labore aspernatur dolore.,12:00:00
+186,21,29,1005.72,MANUTENCAO,Excepturi unde doloremque culpa officiis.,12:00:00
+120,21,99,1687.70,MANUTENCAO,Deleniti earum ut.,12:00:00
+61,21,65,4457.54,MANUTENCAO,Nulla modi molestias veniam dignissimos expedita fugiat expedita.,12:00:00
+154,21,123,1993.35,MANUTENCAO,Distinctio atque aliquid.,12:00:00
+266,21,35,2441.43,MANUTENCAO,Voluptate culpa vero corporis.,12:00:00
+170,21,27,351.50,MANUTENCAO,Velit hic culpa nulla nulla reprehenderit atque nam.,12:00:00
+154,21,23,3371.87,MANUTENCAO,Dolore voluptas illo placeat a sunt.,12:00:00
+71,21,19,3292.55,MANUTENCAO,Exercitationem voluptatum nemo iure magnam.,12:00:00
+111,21,71,3181.36,MANUTENCAO,Commodi incidunt velit nisi.,12:00:00
+82,21,130,4398.53,MANUTENCAO,Qui voluptatibus dolore.,12:00:00
+215,21,137,2167.81,MANUTENCAO,Amet minus quia veritatis sunt nisi illo aperiam.,12:00:00
+262,21,164,3857.89,MANUTENCAO,Corporis quas ducimus quas voluptate beatae doloribus exercitationem.,12:00:00
+56,21,32,4582.97,MANUTENCAO,Distinctio quos quod fuga.,12:00:00
+201,21,103,4932.29,MANUTENCAO,Consequatur dolor maxime quisquam autem eum nulla.,12:00:00
+93,21,97,1331.61,MANUTENCAO,Ad incidunt nihil non.,12:00:00
+32,21,24,1997.62,MANUTENCAO,Eaque doloremque quia ipsam praesentium.,12:00:00
+7,21,96,4836.84,MANUTENCAO,Laudantium qui asperiores fuga.,12:00:00
+89,21,15,1702.43,MANUTENCAO,Tempora accusamus tempora labore.,12:00:00
+165,21,52,1728.65,MANUTENCAO,Tempore consequuntur tenetur recusandae voluptate aut enim.,12:00:00
+221,21,70,3103.96,MANUTENCAO,Impedit officia cum dolor earum distinctio.,12:00:00
+229,21,69,1644.62,MANUTENCAO,Voluptatibus facilis dolores vitae.,12:00:00
+217,21,22,4636.79,MANUTENCAO,Quibusdam officia optio ratione.,12:00:00
+309,21,144,3513.96,MANUTENCAO,Cum explicabo a ab exercitationem qui quam.,12:00:00
+17,21,167,4207.70,MANUTENCAO,Sapiente tempora iusto libero.,12:00:00
+35,21,126,424.83,MANUTENCAO,Repudiandae distinctio consequatur dolore dicta officiis animi.,12:00:00
+228,21,136,1855.96,MANUTENCAO,Iure occaecati fugiat magni quia repellendus.,12:00:00
+17,21,79,1433.77,MANUTENCAO,Ab ducimus iste iusto.,12:00:00
+82,21,135,2337.07,MANUTENCAO,Unde aspernatur doloribus veniam ab.,12:00:00
+266,21,133,2517.47,MANUTENCAO,Modi amet dolor veniam expedita pariatur in.,12:00:00
+40,21,22,2843.29,MANUTENCAO,Nobis dolorum laborum saepe.,12:00:00
+67,21,38,3993.87,MANUTENCAO,Voluptatum adipisci non repudiandae iusto temporibus.,12:00:00
+150,21,162,3777.56,MANUTENCAO,Error quia blanditiis at repellat assumenda commodi similique.,12:00:00
+3,21,41,2334.69,MANUTENCAO,Saepe dolores dolore nisi.,12:00:00
+284,21,26,3207.53,MANUTENCAO,Ex deleniti repudiandae recusandae deserunt tenetur libero a.,12:00:00
+272,21,28,610.99,MANUTENCAO,Delectus corrupti quasi ad soluta corporis ab.,12:00:00
+25,21,49,453.98,MANUTENCAO,Necessitatibus atque ea officia rem.,12:00:00
+23,21,20,4705.55,MANUTENCAO,Magni itaque optio accusantium culpa.,12:00:00
+188,21,165,4132.86,MANUTENCAO,Natus eum asperiores nesciunt tempora neque dolorum.,12:00:00
+306,21,59,3991.14,MANUTENCAO,Et quibusdam corporis nostrum voluptates maxime.,12:00:00
+303,21,92,278.63,MANUTENCAO,Impedit omnis accusamus eos recusandae.,12:00:00
+272,21,15,660.96,MANUTENCAO,Aliquam esse nobis aperiam.,12:00:00
+95,21,21,4740.36,MANUTENCAO,Dolorem aliquam tempore inventore aperiam voluptas.,12:00:00
+161,21,19,966.09,MANUTENCAO,Praesentium officia ea.,12:00:00
+93,21,109,4746.02,MANUTENCAO,Facilis est velit omnis recusandae reiciendis.,12:00:00
+38,21,171,3625.80,MANUTENCAO,Molestias aspernatur vel non.,12:00:00
+100,21,177,847.86,MANUTENCAO,Possimus in maxime illum quas aperiam doloribus.,12:00:00
+198,21,33,2941.96,MANUTENCAO,Fugiat consequatur perferendis ab.,12:00:00
+226,21,174,327.54,MANUTENCAO,Laborum temporibus at velit incidunt ut iusto.,12:00:00
+219,21,148,4679.95,MANUTENCAO,Culpa earum nostrum vel quod aliquam ut.,12:00:00
+14,21,147,1806.60,MANUTENCAO,Molestias sit sint corporis aliquam eum aliquid.,12:00:00
+71,21,128,4722.81,MANUTENCAO,Nulla earum accusantium nisi harum voluptatem.,12:00:00
+299,21,42,2983.08,MANUTENCAO,Quos dolores animi perferendis nulla eveniet repudiandae.,12:00:00
+215,21,15,3405.11,MANUTENCAO,Necessitatibus asperiores accusamus fugiat cum deserunt nihil.,12:00:00
+119,21,11,3502.32,MANUTENCAO,Officia tempora quia officia.,12:00:00
+120,21,144,1393.88,MANUTENCAO,Doloremque eos odio sint reprehenderit.,12:00:00
+159,21,35,2014.77,MANUTENCAO,Doloremque rem hic rerum numquam tenetur explicabo.,12:00:00
+119,21,58,3685.70,MANUTENCAO,Soluta dolor voluptatibus delectus perspiciatis.,12:00:00
+80,21,160,1375.10,MANUTENCAO,Aperiam odio id autem cupiditate laboriosam.,12:00:00
+62,21,64,1733.13,MANUTENCAO,Omnis alias molestias quam aperiam aliquam voluptatibus vel.,12:00:00
+100,21,127,1104.48,MANUTENCAO,Hic cumque temporibus in.,12:00:00
+210,21,88,3573.88,MANUTENCAO,Recusandae dolore similique animi ad ratione.,12:00:00
+72,21,45,1897.11,MANUTENCAO,Laboriosam corrupti perspiciatis molestias.,12:00:00
+16,21,67,426.85,MANUTENCAO,Officiis suscipit nostrum quidem a dolorem amet cupiditate.,12:00:00
+106,21,40,3341.85,MANUTENCAO,Itaque natus excepturi autem.,12:00:00
+60,21,155,4282.65,MANUTENCAO,Numquam omnis cum necessitatibus perferendis praesentium architecto.,12:00:00
+106,21,74,314.86,MANUTENCAO,Voluptatibus consequuntur omnis quos.,12:00:00
+77,21,132,4053.85,MANUTENCAO,Consequatur et iste aperiam unde perspiciatis.,12:00:00
+266,21,146,4396.39,MANUTENCAO,Impedit accusantium vel nesciunt ipsum blanditiis perferendis vitae.,12:00:00
+266,21,173,2445.98,MANUTENCAO,Nihil voluptatum cum maiores neque.,12:00:00
+5,21,113,4033.82,MANUTENCAO,Magni odit architecto odio.,12:00:00
+188,21,169,434.93,MANUTENCAO,Modi repellat eaque aspernatur laboriosam.,12:00:00
+82,21,29,758.42,MANUTENCAO,Nobis saepe modi inventore.,12:00:00
+258,21,183,854.01,MANUTENCAO,Labore id officiis tenetur sit reprehenderit laudantium.,12:00:00
+276,21,110,4944.04,MANUTENCAO,Excepturi porro provident aut eius.,12:00:00
+84,21,61,3368.02,MANUTENCAO,Magni dolorem et sapiente sed omnis quo alias.,12:00:00
+163,21,64,3680.83,MANUTENCAO,Aliquam esse veritatis unde quasi excepturi reiciendis.,12:00:00
+191,21,14,2809.47,MANUTENCAO,Totam maiores unde corporis.,12:00:00
+140,21,175,120.41,MANUTENCAO,Occaecati ad quibusdam provident ipsam mollitia magni.,12:00:00
+172,21,114,1244.74,MANUTENCAO,Dolore quos sed placeat beatae.,12:00:00
+94,21,18,3193.58,MANUTENCAO,Explicabo aut nostrum.,12:00:00
+21,21,177,248.06,MANUTENCAO,Dolorem esse eveniet ipsam architecto corporis.,12:00:00
+155,21,142,3877.99,MANUTENCAO,Nesciunt qui quod mollitia fugit.,12:00:00
+57,21,170,2707.00,MANUTENCAO,Voluptate illum dignissimos culpa.,12:00:00
+5,21,31,3825.71,MANUTENCAO,Velit culpa voluptas ducimus dolorem vel quod.,12:00:00
+138,21,25,1379.12,MANUTENCAO,Illo sint corporis sit.,12:00:00
+208,21,151,4487.34,MANUTENCAO,Esse aspernatur incidunt.,12:00:00
+270,21,140,2728.71,MANUTENCAO,Quisquam vitae id alias quas.,12:00:00
+228,21,51,2534.73,MANUTENCAO,Aut quaerat consequatur veritatis blanditiis cumque.,12:00:00
+303,21,179,2965.38,MANUTENCAO,Nulla officia repellendus rerum amet sunt.,12:00:00
+109,21,65,2352.72,MANUTENCAO,Voluptas nulla reiciendis eum ducimus velit tempore.,12:00:00
+121,21,108,1097.46,MANUTENCAO,Cum doloribus voluptatibus distinctio.,12:00:00
+307,21,158,1404.89,MANUTENCAO,Optio natus ipsa nam.,12:00:00
+205,21,190,2505.47,MANUTENCAO,Pariatur voluptates sint impedit explicabo suscipit.,12:00:00
+102,21,25,2625.11,MANUTENCAO,Suscipit autem aliquam deserunt incidunt nesciunt rerum.,12:00:00
+232,21,156,1532.64,MANUTENCAO,Excepturi molestiae labore mollitia sapiente fuga ex laudantium.,12:00:00
+272,21,34,4870.46,MANUTENCAO,Voluptate debitis quaerat accusantium architecto.,12:00:00
+196,21,112,2140.21,MANUTENCAO,Consectetur exercitationem accusantium libero quibusdam vero officia.,12:00:00
+164,21,138,1849.46,MANUTENCAO,Ipsam quis laboriosam placeat quae.,12:00:00
+138,21,127,1696.89,MANUTENCAO,Architecto nesciunt inventore placeat aliquid dolores.,12:00:00
+52,21,179,1907.27,MANUTENCAO,Reprehenderit assumenda a libero.,12:00:00
+86,21,75,3249.59,MANUTENCAO,Distinctio doloribus animi veritatis.,12:00:00
+205,21,163,2482.49,MANUTENCAO,Accusamus in ullam sequi.,12:00:00
+104,21,38,1113.15,MANUTENCAO,Voluptas quam fugiat quibusdam minus.,12:00:00
+271,21,107,2420.98,MANUTENCAO,Aperiam non tenetur est placeat totam veritatis quos.,12:00:00
+171,21,197,2274.22,MANUTENCAO,Dicta cum omnis amet eaque enim.,12:00:00
+107,21,135,4457.59,MANUTENCAO,Tempora deserunt explicabo ratione.,12:00:00
+256,21,116,1159.30,MANUTENCAO,Doloribus quae necessitatibus debitis doloremque.,12:00:00
+265,21,82,4112.14,MANUTENCAO,Eius dolores autem eos rem pariatur similique.,12:00:00
+80,21,68,3466.83,MANUTENCAO,Atque ullam exercitationem exercitationem.,12:00:00
+4,21,187,3097.86,MANUTENCAO,Saepe omnis eius nam nemo vitae natus.,12:00:00
+71,21,114,1115.57,MANUTENCAO,Sed praesentium modi illo ea similique exercitationem.,12:00:00
+92,21,171,3150.57,MANUTENCAO,Nesciunt quia quidem architecto molestiae dignissimos nesciunt.,12:00:00
+14,21,100,1793.66,MANUTENCAO,Labore in enim odio quia a modi totam.,12:00:00
+258,21,87,433.71,MANUTENCAO,Quas commodi necessitatibus ullam nulla est modi.,12:00:00
+164,21,70,286.95,MANUTENCAO,Delectus placeat perferendis.,12:00:00
+223,21,28,3329.54,MANUTENCAO,Perspiciatis esse alias est corrupti.,12:00:00
+100,21,189,1861.56,MANUTENCAO,Rerum repellendus distinctio commodi voluptatum tenetur.,12:00:00
+89,21,52,4592.33,MANUTENCAO,Veniam numquam saepe cumque.,12:00:00
+271,21,53,1653.95,MANUTENCAO,Accusamus beatae ratione velit inventore commodi.,12:00:00
+27,21,114,4892.77,MANUTENCAO,Nobis quod similique dolorum.,12:00:00
+298,21,97,197.04,MANUTENCAO,Ea voluptatibus autem natus deleniti minima.,12:00:00
+130,21,85,3450.63,MANUTENCAO,Provident dolor aspernatur aperiam.,12:00:00
+285,21,77,4715.31,MANUTENCAO,Perspiciatis facere esse saepe commodi.,12:00:00
+101,21,165,2085.01,MANUTENCAO,Ullam sed officiis libero amet sapiente.,12:00:00
+96,21,200,1777.81,MANUTENCAO,Ipsum velit aliquam ducimus aliquam maxime soluta.,12:00:00
+112,21,169,1476.69,MANUTENCAO,Itaque placeat magnam.,12:00:00
+186,21,125,815.21,MANUTENCAO,Consequatur rem minus asperiores qui aut.,12:00:00
+114,21,38,1552.78,MANUTENCAO,Vel molestias ducimus.,12:00:00
+182,21,206,2365.37,MANUTENCAO,Architecto voluptate nemo.,12:00:00
+261,21,211,498.72,MANUTENCAO,Modi quibusdam sint aut eveniet hic.,12:00:00
+246,21,153,3156.17,MANUTENCAO,Et placeat fugiat eius libero aspernatur earum.,12:00:00
+161,21,45,3490.42,MANUTENCAO,Nostrum deserunt commodi.,12:00:00
+118,21,131,1565.63,MANUTENCAO,Unde velit modi repellat neque sit aperiam.,12:00:00
+117,21,208,4422.71,MANUTENCAO,Dicta porro dolorem facilis nisi voluptatem itaque dicta.,12:00:00
+100,21,194,705.48,MANUTENCAO,Iusto unde sed voluptatibus veniam quibusdam quibusdam.,12:00:00
+140,21,183,4407.31,MANUTENCAO,Reprehenderit quisquam illo earum voluptas unde occaecati.,12:00:00
+4,21,109,2803.01,MANUTENCAO,Ipsa beatae dolores distinctio.,12:00:00
+105,21,38,2140.29,MANUTENCAO,Necessitatibus quae possimus repellat eveniet autem facere.,12:00:00
+129,21,62,1402.33,MANUTENCAO,Quis est cupiditate ipsam.,12:00:00
+124,21,141,2006.62,MANUTENCAO,Beatae quos numquam nobis ullam.,12:00:00
+43,21,120,2629.87,MANUTENCAO,Repellendus corrupti earum culpa excepturi nam.,12:00:00
+8,21,60,4783.19,MANUTENCAO,Velit maxime numquam.,12:00:00
+312,21,173,4503.50,MANUTENCAO,Blanditiis eligendi pariatur velit numquam saepe hic.,12:00:00
+58,21,40,1744.39,MANUTENCAO,Doloribus repellendus fuga enim.,12:00:00
+221,21,67,270.70,MANUTENCAO,Voluptate ipsam amet maxime repellat officiis quasi.,12:00:00
+64,21,178,3643.27,MANUTENCAO,Temporibus architecto soluta reprehenderit impedit.,12:00:00
+274,21,86,2194.85,MANUTENCAO,Alias repudiandae libero dolore sequi.,12:00:00
+258,21,155,267.37,MANUTENCAO,Nulla quisquam impedit laudantium soluta unde nostrum.,12:00:00
+239,21,188,4624.98,MANUTENCAO,Iure expedita ex.,12:00:00
+120,21,163,3754.72,MANUTENCAO,Sunt culpa cupiditate vero cumque cum.,12:00:00
+129,21,141,2793.21,MANUTENCAO,Corporis nihil nisi expedita.,12:00:00
+271,21,33,4897.27,MANUTENCAO,Atque aliquid voluptatum repellendus facilis.,12:00:00
+143,21,189,4940.35,MANUTENCAO,Fugit optio deleniti dolore.,12:00:00
+173,21,152,3739.19,MANUTENCAO,Ex deleniti quibusdam soluta.,12:00:00
+184,21,43,2699.67,MANUTENCAO,Reprehenderit impedit commodi id quibusdam mollitia repellat.,12:00:00
+130,21,15,4550.90,MANUTENCAO,Voluptatibus incidunt repellat ad.,12:00:00
+220,21,176,3926.37,MANUTENCAO,Similique officia sunt.,12:00:00
+43,21,205,549.49,MANUTENCAO,Rerum distinctio vel fuga perferendis provident aperiam in.,12:00:00
+248,21,174,3779.28,MANUTENCAO,Illum eum illum.,12:00:00
+110,21,200,2421.57,MANUTENCAO,Nesciunt eum est velit tempora alias omnis.,12:00:00
+24,21,157,4067.57,MANUTENCAO,Vitae voluptatem ad iure in ut.,12:00:00
+288,21,176,1524.60,MANUTENCAO,Non eligendi ullam optio.,12:00:00
+201,21,65,4704.05,MANUTENCAO,Dolorem iusto quaerat molestias labore perferendis.,12:00:00
+30,21,45,4685.15,MANUTENCAO,Nostrum excepturi ducimus.,12:00:00
+14,21,191,4938.13,MANUTENCAO,Exercitationem corrupti autem nostrum quae debitis.,12:00:00
+301,21,38,1908.78,MANUTENCAO,Quia voluptatem quidem provident voluptatum.,12:00:00
+228,21,59,2645.08,MANUTENCAO,Maxime atque vitae doloribus voluptates sed.,12:00:00
+238,21,54,986.57,MANUTENCAO,Recusandae culpa consectetur blanditiis.,12:00:00
+116,21,222,1324.36,MANUTENCAO,Soluta excepturi tempora debitis nisi mollitia.,12:00:00
+63,21,150,3395.11,MANUTENCAO,Voluptatibus nostrum neque adipisci magnam eaque omnis quos.,12:00:00
+97,21,138,3576.18,MANUTENCAO,Nobis voluptatibus consequatur ratione voluptate.,12:00:00
+130,21,172,3208.47,MANUTENCAO,Possimus at quod culpa.,12:00:00
+120,21,44,4284.52,MANUTENCAO,Dicta distinctio nobis modi quibusdam repellendus beatae repudiandae.,12:00:00
+92,21,142,1460.27,MANUTENCAO,Nemo debitis pariatur amet recusandae pariatur.,12:00:00
+131,21,118,3530.95,MANUTENCAO,Suscipit repudiandae dignissimos molestiae dolores fugit saepe.,12:00:00
+194,21,185,1667.17,MANUTENCAO,In voluptate beatae iste.,12:00:00
+78,21,47,2528.38,MANUTENCAO,Quia non reiciendis inventore ab animi nemo.,12:00:00
+244,21,118,4182.15,MANUTENCAO,Tenetur rerum omnis tempore ab.,12:00:00
+171,21,65,955.09,MANUTENCAO,Incidunt natus culpa reiciendis autem.,12:00:00
+247,21,61,2164.86,MANUTENCAO,Esse quia similique quod vero voluptatibus.,12:00:00
+188,21,135,3718.56,MANUTENCAO,Officia architecto dolorum neque excepturi.,12:00:00
+207,21,216,1852.98,MANUTENCAO,Quas fuga unde corrupti at.,12:00:00
+153,21,215,3640.55,MANUTENCAO,Tenetur itaque distinctio iste ratione excepturi.,12:00:00
+237,21,54,1307.87,MANUTENCAO,In quam est porro beatae.,12:00:00
+219,21,90,3916.14,MANUTENCAO,Recusandae officia beatae veritatis cum.,12:00:00
+69,21,146,3247.62,MANUTENCAO,Fuga tempore beatae tempore quam ducimus.,12:00:00
+45,21,197,1226.31,MANUTENCAO,Ratione nobis quibusdam dignissimos numquam eum.,12:00:00
+62,21,128,1383.04,MANUTENCAO,Reprehenderit cumque nisi consequatur architecto numquam modi.,12:00:00
+245,21,42,4915.24,MANUTENCAO,Possimus officiis quos commodi harum nemo officia.,12:00:00
+311,21,227,837.88,MANUTENCAO,Ea temporibus vero explicabo ratione.,12:00:00
+186,21,136,700.90,MANUTENCAO,Reprehenderit labore laborum porro asperiores.,12:00:00
+162,21,146,4406.65,MANUTENCAO,Enim minima ad temporibus unde iusto.,12:00:00
+200,21,202,464.95,MANUTENCAO,Suscipit recusandae voluptatibus quis provident magni.,12:00:00
+263,21,69,1771.53,MANUTENCAO,Quibusdam laborum ab rem ut cum officiis modi.,12:00:00
+138,21,141,1275.96,MANUTENCAO,Harum neque molestias et corporis neque.,12:00:00
+151,21,137,3376.06,MANUTENCAO,Nihil dignissimos libero debitis aspernatur tenetur harum.,12:00:00
+202,21,161,637.95,MANUTENCAO,Libero quam dolore eaque reprehenderit beatae alias.,12:00:00
+155,21,147,881.77,MANUTENCAO,Possimus consequuntur eius repellendus eum dolorem distinctio.,12:00:00
+287,21,217,3558.10,MANUTENCAO,Eos qui delectus aliquam.,12:00:00
+40,21,209,176.16,MANUTENCAO,Laudantium blanditiis id commodi necessitatibus reprehenderit molestias.,12:00:00
+20,21,17,4648.53,MANUTENCAO,Maxime tempore eius dolorem laudantium.,12:00:00
+144,21,182,490.08,MANUTENCAO,Unde quibusdam quod doloribus.,12:00:00
+178,21,59,4022.34,MANUTENCAO,Sequi aliquid repudiandae ad.,12:00:00
+31,21,90,194.64,MANUTENCAO,Laborum deleniti ab perspiciatis quae voluptatem commodi commodi.,12:00:00
+184,21,38,486.25,MANUTENCAO,Sunt voluptatem sunt necessitatibus cum id.,12:00:00
+193,21,172,993.01,MANUTENCAO,Quia atque saepe vitae velit.,12:00:00
+167,21,232,3516.79,MANUTENCAO,Porro ipsa neque in culpa quia laborum.,12:00:00
+106,21,147,2066.04,MANUTENCAO,Accusantium aliquam eum.,12:00:00
+279,21,127,1474.13,MANUTENCAO,Cum assumenda natus placeat doloribus doloribus.,12:00:00
+91,21,237,2508.87,MANUTENCAO,Placeat fugit laudantium temporibus ratione praesentium maiores fugit.,12:00:00
+284,21,191,592.28,MANUTENCAO,Error voluptas ad soluta et.,12:00:00
+80,21,217,2181.33,MANUTENCAO,Iusto ea asperiores a minus ad.,12:00:00
+301,21,230,1957.34,MANUTENCAO,Sit quia suscipit fuga.,12:00:00
+89,21,96,2358.90,MANUTENCAO,Magni eum esse deserunt voluptates ad facilis.,12:00:00
+53,21,145,3423.54,MANUTENCAO,Tempora non quis est.,12:00:00
+51,21,70,3084.88,MANUTENCAO,Occaecati deleniti ipsum dolorem distinctio eveniet.,12:00:00
+250,21,208,4154.38,MANUTENCAO,Quos at fugit sequi dicta ducimus eos.,12:00:00
+250,21,124,4955.01,MANUTENCAO,Voluptates corrupti repudiandae.,12:00:00
+221,21,102,3273.59,MANUTENCAO,Cum alias itaque omnis vero soluta.,12:00:00
+214,21,111,782.41,MANUTENCAO,Consequatur reprehenderit explicabo corporis voluptates pariatur.,12:00:00
+294,21,189,2439.78,MANUTENCAO,Dolor quia quia porro quidem iste voluptatibus.,12:00:00
+256,21,55,1044.11,MANUTENCAO,Doloribus assumenda vero perspiciatis iste inventore.,12:00:00
+114,21,173,4614.96,MANUTENCAO,Vero consequatur vero aliquam.,12:00:00
+131,21,134,987.01,MANUTENCAO,Doloremque voluptatem quam incidunt.,12:00:00
+268,21,89,4501.49,MANUTENCAO,Ut repellat sint quam porro.,12:00:00
+248,21,229,2515.56,MANUTENCAO,Eius fuga suscipit aut nemo.,12:00:00
+261,21,76,739.01,MANUTENCAO,Deleniti mollitia veritatis placeat quaerat doloremque.,12:00:00
+100,21,196,1611.68,MANUTENCAO,Provident earum blanditiis soluta expedita cupiditate.,12:00:00
+273,21,35,4715.26,MANUTENCAO,Ipsum ex quo assumenda debitis omnis.,12:00:00
+267,21,244,1170.83,MANUTENCAO,Beatae ducimus dolorem in cumque beatae.,12:00:00
+117,21,71,4459.19,MANUTENCAO,Ratione corporis qui aspernatur.,12:00:00
+273,21,129,2881.00,MANUTENCAO,Natus occaecati omnis fuga adipisci.,12:00:00
+249,21,162,3960.05,MANUTENCAO,Similique aliquid necessitatibus dignissimos.,12:00:00
+82,21,115,897.90,MANUTENCAO,Nostrum veniam odio deleniti saepe tempora.,12:00:00
+192,21,107,4340.62,MANUTENCAO,Consectetur recusandae cumque exercitationem non aperiam maxime.,12:00:00
+262,21,97,275.19,MANUTENCAO,Illo eveniet et sapiente exercitationem deleniti ab non.,12:00:00
+107,21,83,2661.64,MANUTENCAO,Dolores reprehenderit neque aspernatur earum.,12:00:00
+212,21,56,4842.47,MANUTENCAO,Quisquam debitis quo hic.,12:00:00
+19,21,201,506.69,MANUTENCAO,Recusandae vel nisi molestiae rerum tenetur quia.,12:00:00
+116,21,180,4391.01,MANUTENCAO,Veritatis eos minima quam.,12:00:00
+130,21,179,1024.43,MANUTENCAO,Quam tempora blanditiis dolore.,12:00:00
+117,21,160,244.57,MANUTENCAO,Consectetur ad repudiandae soluta cum.,12:00:00
+225,21,148,898.65,MANUTENCAO,Doloremque minima delectus cumque vero.,12:00:00
+68,21,173,1582.18,MANUTENCAO,Provident illo delectus numquam.,12:00:00
+15,21,200,2681.35,MANUTENCAO,Recusandae neque sint dicta nesciunt placeat harum possimus.,12:00:00
+275,21,81,260.60,MANUTENCAO,Excepturi eum provident nobis odio provident.,12:00:00
+102,21,221,3906.81,MANUTENCAO,Totam autem illum nulla nobis iure porro.,12:00:00
+55,21,96,4649.73,MANUTENCAO,Dolor error saepe nemo ad aliquid sequi.,12:00:00
+223,21,96,362.01,MANUTENCAO,A doloremque vitae quam accusamus cumque.,12:00:00
+165,21,224,2955.55,MANUTENCAO,In atque eaque exercitationem.,12:00:00
+112,21,142,338.76,MANUTENCAO,Quasi et quas accusamus adipisci.,12:00:00
+53,21,37,4709.48,MANUTENCAO,Inventore labore dolor debitis.,12:00:00
+280,21,170,1023.48,MANUTENCAO,Quisquam ipsam totam ipsum quis.,12:00:00
+15,21,238,3761.69,MANUTENCAO,Distinctio qui at perferendis.,12:00:00
+264,21,125,4487.53,MANUTENCAO,Recusandae laudantium itaque facilis.,12:00:00
+164,21,83,2786.14,MANUTENCAO,Minus alias cum earum nesciunt beatae quidem.,12:00:00
+151,21,226,2250.68,MANUTENCAO,Sunt commodi dolor repellat totam laboriosam laborum dignissimos.,12:00:00
+235,21,111,2053.18,MANUTENCAO,Facere animi nulla illum fugiat aliquam.,12:00:00
+155,21,92,1336.98,MANUTENCAO,Reiciendis asperiores debitis quae.,12:00:00
+82,21,174,3317.61,MANUTENCAO,Voluptatem modi voluptatibus eaque blanditiis.,12:00:00
+46,21,250,2629.68,MANUTENCAO,Vero doloribus delectus accusamus.,12:00:00
+241,21,158,2526.99,MANUTENCAO,Exercitationem animi sit corrupti molestiae natus unde fugiat.,12:00:00
+80,21,63,3000.49,MANUTENCAO,Suscipit beatae molestiae vero.,12:00:00
+312,21,244,4631.86,MANUTENCAO,Necessitatibus impedit accusamus delectus aspernatur ad.,12:00:00
+58,21,170,879.98,MANUTENCAO,Temporibus neque quis vel.,12:00:00
+185,21,162,1640.01,MANUTENCAO,In delectus necessitatibus asperiores in perspiciatis.,12:00:00
+47,21,260,2526.81,MANUTENCAO,Nisi voluptatem aut debitis maxime.,12:00:00
+169,21,82,2313.16,MANUTENCAO,Quaerat itaque reiciendis.,12:00:00
+155,21,27,3713.41,MANUTENCAO,Vel hic quia.,12:00:00
+45,21,253,4720.59,MANUTENCAO,Asperiores optio officiis ea eos doloribus et.,12:00:00
+29,21,113,3709.70,MANUTENCAO,Laudantium quaerat architecto rerum quia itaque autem aperiam.,12:00:00
+280,21,21,4012.86,MANUTENCAO,Nulla soluta atque repudiandae laborum nesciunt sit.,12:00:00
+5,21,232,3358.09,MANUTENCAO,Voluptates ut eveniet expedita quod vel doloremque.,12:00:00
+1,21,230,2092.74,MANUTENCAO,Cum soluta ipsa consequuntur quo.,12:00:00
+267,21,140,1344.12,MANUTENCAO,Voluptas iusto sapiente.,12:00:00
+235,21,103,3796.77,MANUTENCAO,Odit repudiandae maxime non.,12:00:00
+236,21,25,343.73,MANUTENCAO,Ratione minus modi fugit eum reiciendis distinctio.,12:00:00
+17,21,182,645.18,MANUTENCAO,Magnam mollitia corrupti ex.,12:00:00
+206,21,83,1840.50,MANUTENCAO,Totam quis vitae maiores.,12:00:00
+198,21,61,3832.66,MANUTENCAO,Minus impedit consectetur possimus perspiciatis officia architecto veniam.,12:00:00
+303,21,178,4831.92,MANUTENCAO,Iusto quaerat repellat necessitatibus.,12:00:00
+6,21,214,3025.89,MANUTENCAO,Perspiciatis laborum optio ipsa adipisci harum exercitationem.,12:00:00
+224,21,140,1571.28,MANUTENCAO,Corrupti nisi earum magnam natus aliquam modi.,12:00:00
+130,21,193,644.30,MANUTENCAO,Sint accusamus tenetur ea inventore repellat placeat.,12:00:00
+305,21,106,3532.64,MANUTENCAO,Nemo alias nihil incidunt eligendi est.,12:00:00
+156,21,71,4595.95,MANUTENCAO,Laborum suscipit numquam autem consequuntur ducimus.,12:00:00
+134,21,224,1889.40,MANUTENCAO,Adipisci illum sed.,12:00:00
+119,21,123,2227.80,MANUTENCAO,Corrupti veritatis enim impedit officia eligendi blanditiis.,12:00:00
+219,21,74,4369.91,MANUTENCAO,Delectus tenetur occaecati.,12:00:00
+308,21,230,753.42,MANUTENCAO,Voluptatibus ipsum repudiandae ut.,12:00:00
+157,21,51,2007.32,MANUTENCAO,Illum numquam nostrum recusandae similique quaerat.,12:00:00
+242,21,96,3531.93,MANUTENCAO,Itaque velit maiores suscipit eius possimus.,12:00:00
+305,21,194,2680.49,MANUTENCAO,Enim necessitatibus minus at ducimus fugiat.,12:00:00
+295,21,186,3035.98,MANUTENCAO,Harum cupiditate qui quis.,12:00:00
+129,21,106,3033.14,MANUTENCAO,Atque natus explicabo repellat itaque aliquam vitae.,12:00:00
+64,21,224,1775.80,MANUTENCAO,Qui animi alias beatae ipsa voluptate autem.,12:00:00
+7,21,147,4665.40,MANUTENCAO,Soluta ipsa labore asperiores esse ad.,12:00:00
+30,21,229,1177.42,MANUTENCAO,Doloremque nulla minima molestiae.,12:00:00
+3,21,173,3769.28,MANUTENCAO,Ipsum porro temporibus cumque ea temporibus.,12:00:00
+46,21,125,3102.03,MANUTENCAO,Aut nisi consequuntur assumenda.,12:00:00
+188,21,13,451.78,MANUTENCAO,Optio vel excepturi labore.,12:00:00
+50,21,124,2873.15,MANUTENCAO,Enim laborum reiciendis ipsum libero qui.,12:00:00
+298,21,80,3557.25,MANUTENCAO,Doloremque quidem maxime voluptate consectetur eos molestiae.,12:00:00
+51,21,250,3953.94,MANUTENCAO,Fugiat voluptatum architecto iure aliquam officiis.,12:00:00
+248,21,162,4715.67,MANUTENCAO,Sequi optio accusantium unde reiciendis.,12:00:00
+274,21,265,3233.26,MANUTENCAO,Quia quae ab voluptatum illo recusandae.,12:00:00
+110,21,46,2621.01,MANUTENCAO,Cum ipsum optio quidem repellat officiis velit distinctio.,12:00:00
+151,21,138,767.80,MANUTENCAO,Velit aut repellat.,12:00:00
+214,21,266,1175.92,MANUTENCAO,Rem vero delectus non.,12:00:00
+127,21,267,3903.82,MANUTENCAO,Nobis dignissimos quasi amet veritatis incidunt unde corrupti.,12:00:00
+110,21,128,3581.85,MANUTENCAO,Cupiditate veniam modi harum earum eius praesentium at.,12:00:00
+211,21,179,800.10,MANUTENCAO,Amet maiores delectus similique quidem illum.,12:00:00
+119,21,193,4630.50,MANUTENCAO,Explicabo veritatis sunt dignissimos.,12:00:00
+136,21,184,2562.20,MANUTENCAO,Repellat ad illum aut eligendi alias.,12:00:00
+247,21,265,1401.47,MANUTENCAO,Saepe porro commodi nostrum temporibus accusamus.,12:00:00
+41,21,260,3841.84,MANUTENCAO,Ullam reiciendis repellendus reiciendis quos est quas iste.,12:00:00
+186,21,131,1126.08,MANUTENCAO,Veritatis ut consequuntur ex quos.,12:00:00
+18,21,183,2904.40,MANUTENCAO,Eveniet eligendi facere deleniti reiciendis consequuntur.,12:00:00
+119,21,178,3626.25,MANUTENCAO,Laborum culpa consequuntur ex earum quis veritatis.,12:00:00
+260,21,188,4717.70,MANUTENCAO,Possimus quam alias.,12:00:00
+299,21,186,728.00,MANUTENCAO,Minus quod minima minus iusto.,12:00:00
+108,21,71,1769.56,MANUTENCAO,Expedita impedit nisi fuga necessitatibus commodi.,12:00:00
+64,21,65,4287.54,MANUTENCAO,Pariatur unde rerum architecto molestiae quas.,12:00:00
+30,21,132,3713.81,MANUTENCAO,Doloribus ad nulla amet ea.,12:00:00
+87,21,178,3372.11,MANUTENCAO,Incidunt eius deserunt.,12:00:00
+276,21,85,992.67,MANUTENCAO,Laborum temporibus officiis quaerat dicta.,12:00:00
+35,21,141,2775.27,MANUTENCAO,Incidunt velit fugiat vero nobis neque.,12:00:00
+110,21,38,3087.09,MANUTENCAO,Deleniti dolorum ex consectetur.,12:00:00
+254,21,104,4063.38,MANUTENCAO,Dolore excepturi repudiandae possimus quis.,12:00:00
+276,21,252,1867.27,MANUTENCAO,Distinctio eum fuga impedit accusantium.,12:00:00
+274,21,37,3087.28,MANUTENCAO,Sint fuga error dolore non nisi exercitationem.,12:00:00
+125,21,101,4732.05,MANUTENCAO,Odit placeat impedit et deserunt dicta voluptate.,12:00:00
+103,21,261,2270.91,MANUTENCAO,Incidunt sequi corrupti voluptas.,12:00:00
+232,21,15,3238.45,MANUTENCAO,Exercitationem voluptatibus itaque.,12:00:00
+177,21,179,4169.86,MANUTENCAO,Iure rerum nam illum doloremque officiis beatae.,12:00:00
+16,21,81,395.54,MANUTENCAO,Dolores non magni dolorem.,12:00:00
+109,21,154,1708.08,MANUTENCAO,Illum repudiandae vero deserunt odit beatae commodi.,12:00:00
+229,21,43,327.19,MANUTENCAO,Ea blanditiis rem itaque earum.,12:00:00
+269,21,24,4727.88,MANUTENCAO,Nostrum incidunt nam reiciendis magni molestias.,12:00:00
+137,21,266,425.83,MANUTENCAO,Cumque quia quasi accusantium eum veniam occaecati rem.,12:00:00
+195,21,54,1292.93,MANUTENCAO,Accusamus dignissimos cumque harum dolores quo tempore.,12:00:00
+153,21,25,4374.78,MANUTENCAO,Nam cum officiis adipisci ex cumque officiis.,12:00:00
+199,21,17,3957.79,MANUTENCAO,Quas explicabo officiis error earum facilis.,12:00:00
+73,21,152,480.72,MANUTENCAO,Labore aperiam provident pariatur eaque accusamus.,12:00:00
+108,21,221,4249.21,MANUTENCAO,Perferendis blanditiis quis.,12:00:00
+110,21,88,258.86,MANUTENCAO,Esse quae dolorem rerum ea est excepturi excepturi.,12:00:00
+204,21,198,4438.40,MANUTENCAO,Tempore aliquam temporibus libero commodi.,12:00:00
+228,21,45,3044.76,MANUTENCAO,Impedit iure veritatis aliquid perspiciatis molestiae.,12:00:00
+50,21,128,4886.89,MANUTENCAO,At officiis ex id.,12:00:00
+261,21,139,791.15,MANUTENCAO,Saepe corrupti assumenda excepturi quam tenetur ipsam.,12:00:00
+246,21,65,402.64,MANUTENCAO,Nemo a perferendis dicta ad dicta expedita.,12:00:00
+85,21,118,3992.41,MANUTENCAO,Reprehenderit animi neque hic nesciunt.,12:00:00
+127,21,150,459.76,MANUTENCAO,Ratione perferendis necessitatibus cumque.,12:00:00
+127,21,149,3421.66,MANUTENCAO,Quidem maxime consequuntur itaque.,12:00:00
+44,21,198,427.11,MANUTENCAO,Velit eum officiis error iure culpa nesciunt.,12:00:00
+190,21,145,4280.42,MANUTENCAO,Esse numquam ut possimus sequi.,12:00:00
+215,21,83,2860.90,MANUTENCAO,Quas adipisci necessitatibus illum ad blanditiis molestias.,12:00:00
+179,21,28,2896.44,MANUTENCAO,Optio aut et earum totam magni delectus.,12:00:00
+182,21,226,3835.38,MANUTENCAO,Quaerat exercitationem dolores alias.,12:00:00
+209,21,245,1431.98,MANUTENCAO,Deleniti animi ea natus.,12:00:00
+46,21,115,1380.76,MANUTENCAO,Ex id molestiae voluptas cupiditate consectetur mollitia.,12:00:00
+51,21,231,4686.35,MANUTENCAO,Doloribus ipsum iste laborum.,12:00:00
+215,21,33,1932.57,MANUTENCAO,Earum officia est expedita quaerat perspiciatis.,12:00:00
+77,21,261,2973.24,MANUTENCAO,Inventore odio nihil vel doloribus.,12:00:00
+291,21,246,4378.72,MANUTENCAO,Expedita eveniet dicta blanditiis molestias.,12:00:00
+164,21,55,277.96,MANUTENCAO,Repellendus natus veritatis aliquam aliquam consequatur.,12:00:00
+85,21,220,2061.26,MANUTENCAO,Similique blanditiis nobis qui suscipit.,12:00:00
+96,21,176,2004.93,MANUTENCAO,Incidunt est nam corrupti necessitatibus autem.,12:00:00
+235,21,240,1572.68,MANUTENCAO,Blanditiis atque neque explicabo.,12:00:00
+83,21,24,2200.36,MANUTENCAO,Voluptatibus facere a eos sequi debitis aliquam.,12:00:00
+78,21,31,2792.20,MANUTENCAO,Quasi harum ipsam saepe rem iure.,12:00:00
+253,21,224,337.12,MANUTENCAO,Ex amet sapiente totam.,12:00:00
+175,21,172,801.83,MANUTENCAO,Unde dolorem iusto porro dicta eum.,12:00:00
+90,21,137,3165.51,MANUTENCAO,Cumque natus cupiditate dolorum iusto.,12:00:00
+253,21,238,3768.98,MANUTENCAO,Cupiditate doloribus saepe voluptates voluptatum ad odit.,12:00:00
+101,21,211,3524.90,MANUTENCAO,Odit nihil quasi et aliquam et vel.,12:00:00
+265,21,140,3505.18,MANUTENCAO,Numquam cum quam autem corrupti facilis excepturi.,12:00:00
+80,21,136,1608.83,MANUTENCAO,Nostrum debitis exercitationem expedita.,12:00:00
+235,21,43,1443.63,MANUTENCAO,Earum porro atque est esse.,12:00:00
+298,21,30,2195.60,MANUTENCAO,Ea rerum qui quibusdam.,12:00:00
+41,21,159,2948.43,MANUTENCAO,Praesentium earum recusandae delectus odio architecto totam in.,12:00:00
+53,21,223,1297.69,MANUTENCAO,Aliquid pariatur libero necessitatibus dolorem.,12:00:00
+112,21,22,2440.70,MANUTENCAO,At eaque eveniet similique itaque.,12:00:00
+134,21,195,1201.59,MANUTENCAO,Veniam ullam deserunt unde illum quam vel.,12:00:00
+69,21,149,2258.62,MANUTENCAO,Quos magnam libero excepturi harum.,12:00:00
+220,21,27,3659.89,MANUTENCAO,Unde eos blanditiis maiores asperiores illo sunt alias.,12:00:00
+61,21,163,1503.45,MANUTENCAO,Eaque rem vero quod earum.,12:00:00
+308,21,32,4146.96,MANUTENCAO,Magnam perferendis voluptatum rerum tempora repellendus praesentium suscipit.,12:00:00
+279,21,254,4482.56,MANUTENCAO,Dolores facere voluptate quam.,12:00:00
+141,21,112,3264.17,MANUTENCAO,Quibusdam voluptate quibusdam ipsam esse magni quia.,12:00:00
+180,21,100,2397.61,MANUTENCAO,Aliquam nostrum voluptatum aut.,12:00:00
+267,21,106,3509.29,MANUTENCAO,Odio omnis iusto eligendi hic repellendus dignissimos.,12:00:00
+177,21,19,4099.77,MANUTENCAO,Dolore exercitationem optio temporibus nisi commodi.,12:00:00
+167,21,270,490.72,MANUTENCAO,Temporibus rem illum dolorem.,12:00:00
+28,21,89,4825.48,MANUTENCAO,Deleniti alias vero optio soluta.,12:00:00
+269,21,154,1036.67,MANUTENCAO,Eius voluptatem iure officia.,12:00:00
+129,21,70,1198.02,MANUTENCAO,Distinctio molestias hic maxime.,12:00:00
+88,21,87,682.55,MANUTENCAO,Nobis odit consequatur.,12:00:00
+210,21,281,3050.25,MANUTENCAO,Nemo repellat voluptates quod repellendus.,12:00:00
+76,21,214,3263.81,MANUTENCAO,Est numquam odit iste quas cumque.,12:00:00
+13,21,98,4644.69,MANUTENCAO,Natus quam commodi.,12:00:00
+20,21,178,2624.22,MANUTENCAO,Odit ipsa nisi dicta sapiente.,12:00:00
+165,21,29,3224.06,MANUTENCAO,Laborum aut iure minus corporis illum officiis sint.,12:00:00
+166,21,50,4843.19,MANUTENCAO,Quam sunt eius non eaque debitis voluptate.,12:00:00
+212,21,36,2151.00,MANUTENCAO,Numquam id sed consequuntur.,12:00:00
+92,21,228,514.05,MANUTENCAO,Fugiat quos officia impedit deleniti iusto sequi sed.,12:00:00
+282,21,213,3467.43,MANUTENCAO,Earum repudiandae delectus.,12:00:00
+287,21,76,726.64,MANUTENCAO,Vitae eligendi qui accusantium.,12:00:00
+197,21,175,4456.64,MANUTENCAO,Repudiandae ratione iure pariatur vitae provident.,12:00:00
+202,21,137,2189.74,MANUTENCAO,Tenetur eum recusandae expedita delectus.,12:00:00
+53,21,234,3565.32,MANUTENCAO,Maxime laboriosam voluptatem enim.,12:00:00
+181,21,184,532.97,MANUTENCAO,Maiores doloribus assumenda officia.,12:00:00
+153,21,267,188.32,MANUTENCAO,Officia officiis necessitatibus.,12:00:00
+196,21,258,1226.45,MANUTENCAO,Incidunt natus qui veritatis odit.,12:00:00
+211,21,130,1278.89,MANUTENCAO,Provident distinctio tempora doloribus dolorem.,12:00:00
+294,21,35,2121.60,MANUTENCAO,Inventore eaque a voluptatem.,12:00:00
+133,21,103,3195.61,MANUTENCAO,Repellendus iure odio modi dolore.,12:00:00
+257,21,275,3172.82,MANUTENCAO,Accusamus autem amet minima adipisci.,12:00:00
+123,21,37,4654.54,MANUTENCAO,Error temporibus pariatur possimus libero inventore recusandae.,12:00:00
+17,21,293,1077.71,MANUTENCAO,Modi vitae magni sit officia.,12:00:00
+120,21,103,3620.26,MANUTENCAO,Ipsa asperiores error laborum voluptas beatae sunt.,12:00:00
+200,21,102,3597.01,MANUTENCAO,At excepturi quibusdam aspernatur nisi velit.,12:00:00
+88,21,168,2259.62,MANUTENCAO,Non occaecati dolore culpa placeat.,12:00:00
+273,21,252,1628.99,MANUTENCAO,Modi nobis laudantium sunt amet non doloribus.,12:00:00
+162,21,300,3838.01,MANUTENCAO,Laborum repellendus unde excepturi provident aliquam.,12:00:00
+247,21,134,216.06,MANUTENCAO,Ad voluptatem tempore aspernatur iusto.,12:00:00
+200,21,252,4299.10,MANUTENCAO,Deleniti temporibus ad earum ratione autem quas nostrum.,12:00:00
+161,21,218,3183.60,MANUTENCAO,Excepturi hic distinctio eum dicta iusto doloremque.,12:00:00
+163,21,34,3350.28,MANUTENCAO,At architecto mollitia quasi consequuntur repellat deleniti.,12:00:00
+103,21,32,2440.66,MANUTENCAO,Debitis rerum sed suscipit vero.,12:00:00
+5,21,55,366.87,MANUTENCAO,Saepe doloremque dolores nobis sequi occaecati.,12:00:00
+295,21,118,812.13,MANUTENCAO,Eum praesentium veniam sequi ducimus asperiores id.,12:00:00
+54,21,21,4190.21,MANUTENCAO,Sed optio natus ut.,12:00:00
+289,21,89,1129.21,MANUTENCAO,Praesentium autem iure atque.,12:00:00
+104,21,294,4637.74,MANUTENCAO,Sint vero animi earum neque atque fugiat.,12:00:00
+197,21,98,3389.37,MANUTENCAO,Ipsa nulla exercitationem facilis laboriosam nisi libero.,12:00:00
+310,21,216,1348.29,MANUTENCAO,Occaecati minus tempora aperiam ducimus similique nostrum.,12:00:00
+232,21,98,4142.56,MANUTENCAO,Temporibus molestias perspiciatis mollitia quidem consequuntur modi.,12:00:00
+99,21,63,4884.43,MANUTENCAO,Repellendus minima ea laudantium voluptate.,12:00:00
+225,21,249,1693.96,MANUTENCAO,Voluptatem quod consequatur id numquam non esse.,12:00:00
+110,21,101,1515.98,MANUTENCAO,Voluptates vero expedita labore expedita.,12:00:00
+279,21,97,4587.87,MANUTENCAO,Repellendus natus saepe ducimus labore.,12:00:00
+8,21,15,480.63,MANUTENCAO,Tempore quod necessitatibus quae ipsam rem excepturi.,12:00:00
+134,21,197,2946.74,MANUTENCAO,Eum amet odio a numquam.,12:00:00
+146,21,291,2872.38,MANUTENCAO,Rem possimus ut quae aliquam iste.,12:00:00
+150,21,132,4148.04,MANUTENCAO,Iste eos voluptate nobis natus.,12:00:00
+309,21,154,1208.94,MANUTENCAO,Consectetur dignissimos consequuntur voluptate tempore esse.,12:00:00
+238,21,134,1209.67,MANUTENCAO,Expedita qui impedit reprehenderit a suscipit architecto.,12:00:00
+106,21,121,3692.14,MANUTENCAO,Provident fugit molestias unde aliquam eligendi laborum.,12:00:00
+122,21,37,4502.44,MANUTENCAO,Modi recusandae perferendis ipsa similique est dignissimos.,12:00:00
+246,21,142,4695.00,MANUTENCAO,Reiciendis quo laudantium.,12:00:00
+241,21,238,4023.45,MANUTENCAO,Eveniet est mollitia eum delectus.,12:00:00
+186,21,135,3772.25,MANUTENCAO,Laboriosam modi distinctio tenetur molestiae maiores incidunt.,12:00:00
+272,21,295,4456.61,MANUTENCAO,Natus ad quam quam numquam.,12:00:00
+123,21,51,637.80,MANUTENCAO,Maxime fugiat ipsam officiis facilis ab.,12:00:00
+233,21,29,3099.64,MANUTENCAO,Excepturi ipsam velit.,12:00:00
+130,21,277,3297.53,MANUTENCAO,Distinctio minus dolore tempore est maxime.,12:00:00
+192,21,276,3091.21,MANUTENCAO,Reiciendis nostrum dicta modi tempore cum.,12:00:00
+195,21,295,2553.90,MANUTENCAO,Impedit ipsam dolorum quae nam.,12:00:00
+71,21,264,3567.00,MANUTENCAO,Nisi itaque eius quidem rerum quisquam saepe.,12:00:00
+188,21,276,4568.80,MANUTENCAO,Itaque fugit nihil eum.,12:00:00
+141,21,55,2525.44,MANUTENCAO,Harum est corrupti.,12:00:00
+11,21,155,3311.09,MANUTENCAO,Est cumque nam ab officiis.,12:00:00
+54,21,267,2052.04,MANUTENCAO,Id illo iure facilis error error.,12:00:00
+112,21,285,2419.46,MANUTENCAO,Minus at soluta culpa facere.,12:00:00
+12,21,299,4991.11,MANUTENCAO,Officiis beatae occaecati voluptatem.,12:00:00
+41,21,31,1619.56,MANUTENCAO,Consectetur aut tempore a similique quas impedit.,12:00:00
+283,21,155,1765.71,MANUTENCAO,Labore quo ipsam quidem.,12:00:00
+138,21,296,1658.10,MANUTENCAO,Reiciendis ipsum saepe officiis qui.,12:00:00
+274,21,195,133.71,MANUTENCAO,Nam itaque voluptatum cumque cum.,12:00:00
+227,21,306,333.95,MANUTENCAO,A expedita quae cupiditate ipsa.,12:00:00
+205,21,68,388.67,MANUTENCAO,Numquam ullam deleniti itaque repudiandae ipsa.,12:00:00
+80,21,314,2943.18,MANUTENCAO,Repellat reiciendis dolorem veniam eius ea maiores.,12:00:00
+183,21,159,1956.54,MANUTENCAO,Eligendi reprehenderit odio vel.,12:00:00
+257,21,184,3608.16,MANUTENCAO,Eius et velit veritatis odio quasi deleniti.,12:00:00
+292,21,173,2873.00,MANUTENCAO,Assumenda dolore maxime numquam deserunt quibusdam.,12:00:00
+216,21,224,1500.25,MANUTENCAO,Qui eos laudantium asperiores id odit et.,12:00:00
+67,21,298,4368.51,MANUTENCAO,Qui a dolor vitae.,12:00:00
+41,21,154,4268.19,MANUTENCAO,Vitae eum esse reprehenderit.,12:00:00
+271,21,56,663.71,MANUTENCAO,Rem assumenda voluptatem.,12:00:00
+268,21,146,4175.05,MANUTENCAO,Voluptas culpa impedit optio reprehenderit porro eum.,12:00:00
+196,21,247,2016.25,MANUTENCAO,Dolore modi voluptate ut dolor corrupti praesentium.,12:00:00
+217,21,285,2890.82,MANUTENCAO,Suscipit similique corporis.,12:00:00
+305,21,61,4325.42,MANUTENCAO,Natus dolorem a laboriosam alias sit at corporis.,12:00:00
+68,21,33,312.57,MANUTENCAO,Nam mollitia rem excepturi dicta explicabo commodi.,12:00:00
+187,21,203,2088.26,MANUTENCAO,Quia facere omnis omnis.,12:00:00
+48,21,175,2232.45,MANUTENCAO,Natus fugiat dolore expedita.,12:00:00
+43,21,73,889.56,MANUTENCAO,Neque voluptates commodi perspiciatis impedit possimus.,12:00:00
+205,21,307,2309.57,MANUTENCAO,Ipsum similique dolore vel consequuntur magnam cupiditate.,12:00:00
+67,21,233,165.77,MANUTENCAO,Aut repellendus totam occaecati dicta quis accusantium.,12:00:00
+178,21,295,582.80,MANUTENCAO,Qui maiores error possimus.,12:00:00
+8,21,256,806.96,MANUTENCAO,Animi nam velit earum recusandae dignissimos.,12:00:00
+22,21,15,4432.57,MANUTENCAO,Quam facere labore.,12:00:00
+221,21,147,1947.37,MANUTENCAO,Eius consequuntur quae culpa et praesentium totam.,12:00:00
+141,21,139,4725.20,MANUTENCAO,Praesentium commodi porro.,12:00:00
+160,21,162,955.60,MANUTENCAO,Minima dolorum accusamus nesciunt hic.,12:00:00
+214,21,152,4662.94,MANUTENCAO,Error enim atque voluptatibus ad debitis illo.,12:00:00
+296,21,288,3545.27,MANUTENCAO,Quae quibusdam voluptatibus quae laboriosam porro fuga.,12:00:00
+240,21,142,939.55,MANUTENCAO,Alias eius ut necessitatibus molestiae ad.,12:00:00
+173,21,226,2957.64,MANUTENCAO,Ab deleniti eius non natus.,12:00:00
+66,21,106,2582.68,MANUTENCAO,Impedit quaerat ad amet ipsum dolores maxime.,12:00:00
+217,21,204,1232.95,MANUTENCAO,Voluptatibus aspernatur totam molestias numquam aut omnis.,12:00:00
+260,21,210,3155.97,MANUTENCAO,Mollitia occaecati in aperiam inventore itaque magnam.,12:00:00
+148,21,221,3948.47,MANUTENCAO,Mollitia voluptatibus saepe itaque ut.,12:00:00
+184,21,244,915.52,MANUTENCAO,Assumenda voluptatum laudantium libero.,12:00:00
+226,21,212,2522.94,MANUTENCAO,Quo repellendus repudiandae qui.,12:00:00
+249,21,269,3780.36,MANUTENCAO,Sed officiis architecto necessitatibus corrupti expedita adipisci.,12:00:00
+242,21,183,669.11,MANUTENCAO,Voluptatum fuga porro illo labore fugiat qui.,12:00:00
+294,21,68,2305.32,MANUTENCAO,Sit eaque aliquam.,12:00:00
+304,21,113,1585.28,MANUTENCAO,Eligendi velit ut ratione placeat quia.,12:00:00
+133,21,282,814.26,MANUTENCAO,Explicabo rem tempore similique doloribus laudantium molestias tempore.,12:00:00
+43,21,14,1510.58,MANUTENCAO,Quis quae impedit aut.,12:00:00
+38,21,111,2177.35,MANUTENCAO,Eveniet praesentium quae quod soluta odit dignissimos quo.,12:00:00
+236,21,262,3639.05,MANUTENCAO,Soluta quisquam nihil animi inventore corrupti labore.,12:00:00
+166,21,195,4451.47,MANUTENCAO,Dicta minima provident modi iure recusandae minus soluta.,12:00:00
+159,21,210,1343.28,MANUTENCAO,Quisquam quas dolorem dolor modi fugiat.,12:00:00
+147,21,119,2470.38,MANUTENCAO,Magnam labore aliquid ducimus deleniti libero debitis.,12:00:00
+33,21,81,241.24,MANUTENCAO,Eveniet nobis quasi autem deleniti tempora.,12:00:00
+197,21,65,1542.86,MANUTENCAO,Aperiam quibusdam vitae veritatis harum dolores ab.,12:00:00
+6,21,94,3052.59,MANUTENCAO,Odit nostrum dignissimos dolorem asperiores molestias.,12:00:00
+279,21,214,4078.40,MANUTENCAO,Atque laboriosam minus commodi mollitia alias.,12:00:00
+63,21,275,777.63,MANUTENCAO,Animi iusto consequuntur laborum ipsum mollitia.,12:00:00
+163,21,315,1790.37,MANUTENCAO,Vitae rerum accusamus culpa similique iste error.,12:00:00
+19,21,187,3706.05,MANUTENCAO,Autem error fugit natus molestias fugiat repellat.,12:00:00
+287,21,221,1553.59,MANUTENCAO,Quod qui illum pariatur.,12:00:00
+133,21,184,4952.85,MANUTENCAO,Pariatur ratione nostrum odio odit cupiditate.,12:00:00
+43,21,306,131.70,MANUTENCAO,Fugiat laboriosam saepe laboriosam nam pariatur facilis.,12:00:00
+187,21,156,3342.79,MANUTENCAO,Impedit dicta ipsam vitae.,12:00:00
+264,21,277,528.70,MANUTENCAO,Velit nesciunt rem vel optio non nulla.,12:00:00
+192,21,19,2927.58,MANUTENCAO,Ducimus tenetur commodi possimus debitis sint.,12:00:00
+283,21,314,1546.04,MANUTENCAO,Optio dolore aut esse.,12:00:00
+274,21,158,1299.79,MANUTENCAO,Perferendis nostrum a nisi adipisci officia.,12:00:00
+162,21,223,1280.24,MANUTENCAO,Delectus nisi possimus voluptatum.,12:00:00
+275,21,135,2994.82,MANUTENCAO,Ducimus sed eius quo occaecati incidunt animi.,12:00:00
+210,21,143,4908.75,MANUTENCAO,Tempora corporis esse.,12:00:00
+168,21,55,4373.43,MANUTENCAO,Totam delectus dolores dignissimos illo.,12:00:00
+105,21,187,2586.06,MANUTENCAO,Magni deleniti laudantium vero totam quod omnis.,12:00:00
+144,21,245,3188.31,MANUTENCAO,Deserunt fuga repudiandae tempora.,12:00:00
+97,21,287,1824.36,MANUTENCAO,Veritatis accusamus ea earum eum.,12:00:00
+39,21,114,2110.08,MANUTENCAO,Aliquam totam consequuntur temporibus in.,12:00:00
+20,21,133,2796.21,MANUTENCAO,Necessitatibus repellendus eum consequuntur.,12:00:00
+195,21,191,3034.94,MANUTENCAO,Veritatis iusto iusto.,12:00:00
+219,21,150,4839.73,MANUTENCAO,Labore id perferendis enim unde.,12:00:00
+232,21,224,2994.27,MANUTENCAO,Ex labore ratione quidem officiis.,12:00:00
+217,21,87,4377.04,MANUTENCAO,Ipsa cumque laboriosam veritatis eius accusamus.,12:00:00
+72,21,96,3675.19,MANUTENCAO,Corrupti omnis sapiente accusantium dolorem.,12:00:00
+297,21,90,4819.31,MANUTENCAO,Harum fugiat quam voluptatibus qui minima blanditiis.,12:00:00
+300,21,111,1710.10,MANUTENCAO,Nobis laboriosam quia quisquam odio.,12:00:00
+133,21,315,4590.11,MANUTENCAO,Doloribus rerum doloribus exercitationem assumenda unde.,12:00:00
+251,21,286,2604.92,MANUTENCAO,Voluptate sapiente minima aperiam.,12:00:00
+140,21,171,1873.89,MANUTENCAO,Dicta recusandae rerum doloribus voluptate necessitatibus ad dolores.,12:00:00
+127,21,275,1834.36,MANUTENCAO,Ullam a soluta sed voluptas.,12:00:00
+244,21,112,4741.55,MANUTENCAO,Accusantium quae cumque reprehenderit dolor.,12:00:00
+197,21,265,3406.77,MANUTENCAO,Dignissimos optio dolorem provident doloremque perspiciatis.,12:00:00
+261,21,56,484.54,MANUTENCAO,Repellendus reiciendis veritatis nisi rerum cum.,12:00:00
+126,21,294,1296.84,MANUTENCAO,Dolores nisi beatae aspernatur sit porro.,12:00:00
+137,21,157,1618.87,MANUTENCAO,A deserunt placeat eius.,12:00:00
+185,21,268,3266.41,MANUTENCAO,Fugit voluptatibus illum quod nobis.,12:00:00
+225,21,18,235.61,MANUTENCAO,Praesentium maiores voluptatem temporibus itaque incidunt repellendus.,12:00:00
+311,21,178,1808.59,MANUTENCAO,Atque corporis illum ipsa nesciunt.,12:00:00
+260,21,76,1124.10,MANUTENCAO,Laborum ducimus quos ipsam consectetur saepe aperiam voluptates.,12:00:00
+4,21,87,2602.17,MANUTENCAO,Nulla in exercitationem veniam ut illum.,12:00:00
+163,21,205,4379.84,MANUTENCAO,Eos magnam asperiores ullam dolores.,12:00:00
+292,21,255,1638.01,MANUTENCAO,Fugiat non ut minima perspiciatis laborum.,12:00:00
+293,21,56,1155.88,MANUTENCAO,Nesciunt enim ipsa incidunt sed molestias.,12:00:00
+185,21,48,3525.30,MANUTENCAO,Quas velit beatae quaerat minus magnam magni blanditiis.,12:00:00
+75,21,315,2527.18,MANUTENCAO,Reprehenderit commodi in dignissimos laborum omnis necessitatibus in.,12:00:00
+257,21,259,2980.87,MANUTENCAO,Ea id id sit.,12:00:00
+25,21,221,2066.44,MANUTENCAO,Non quos molestiae maxime.,12:00:00
+84,21,142,4540.52,MANUTENCAO,Iure quibusdam dolorem repellat reprehenderit.,12:00:00
+246,21,131,1881.63,MANUTENCAO,Delectus est eligendi.,12:00:00
+211,21,286,624.04,MANUTENCAO,Aut quibusdam quod.,12:00:00
+120,21,291,1715.46,MANUTENCAO,Laudantium consequatur aut modi ipsum vero.,12:00:00
+122,21,324,4688.81,MANUTENCAO,Iusto doloremque adipisci alias.,12:00:00
+207,21,312,606.83,MANUTENCAO,Dolorem in ut commodi vitae quae fugiat.,12:00:00
+281,21,158,2363.94,MANUTENCAO,Tempora temporibus eius sint incidunt necessitatibus aut quae.,12:00:00
+70,21,71,2932.91,MANUTENCAO,Harum eius nam minima fuga.,12:00:00
+200,21,183,709.78,MANUTENCAO,Tenetur possimus dolore perferendis.,12:00:00
+309,21,16,2889.19,MANUTENCAO,Officia tenetur ipsum unde.,12:00:00
+266,21,185,1198.02,MANUTENCAO,Unde consectetur dolor odit totam.,12:00:00
+281,21,256,4261.16,MANUTENCAO,Quasi quis earum laboriosam non illo facilis.,12:00:00
+189,21,273,3019.62,MANUTENCAO,Laudantium sunt ratione.,12:00:00
+83,21,91,2897.85,MANUTENCAO,Mollitia quasi atque consequuntur ut tempora deleniti.,12:00:00
+59,21,27,3052.10,MANUTENCAO,Voluptas autem nam corporis quibusdam.,12:00:00
+223,21,84,987.53,MANUTENCAO,Blanditiis eaque illum adipisci.,12:00:00
+299,21,86,2583.43,MANUTENCAO,Voluptatum eos soluta iste molestiae officiis aperiam.,12:00:00
+77,21,328,3326.44,MANUTENCAO,Ipsa aut asperiores ducimus pariatur.,12:00:00
+306,21,21,3254.24,MANUTENCAO,Porro impedit quisquam pariatur.,12:00:00
+20,21,309,1367.55,MANUTENCAO,Aliquam suscipit accusantium aut repellendus.,12:00:00
+266,21,194,4526.36,MANUTENCAO,Dolor ipsam doloremque.,12:00:00
+53,21,321,2402.24,MANUTENCAO,Magni architecto similique voluptatibus.,12:00:00
+148,21,167,293.65,MANUTENCAO,Ipsa velit sed neque temporibus.,12:00:00
+306,21,308,4726.06,MANUTENCAO,Veritatis deleniti labore a.,12:00:00
+29,21,196,1116.24,MANUTENCAO,Quibusdam facilis ullam occaecati.,12:00:00
+284,21,188,215.88,MANUTENCAO,Dicta suscipit maiores amet quisquam quis necessitatibus.,12:00:00
+252,21,325,1591.55,MANUTENCAO,Reiciendis distinctio harum.,12:00:00
+174,21,280,1652.56,MANUTENCAO,Totam neque voluptate error.,12:00:00
+270,21,338,4628.03,MANUTENCAO,Culpa sit magnam aliquid rerum reiciendis officiis itaque.,12:00:00
+113,21,210,3382.62,MANUTENCAO,Veniam excepturi sunt voluptatum.,12:00:00
+78,21,170,4886.49,MANUTENCAO,Dicta minus ex fugit ratione deleniti.,12:00:00
+255,21,11,3310.16,MANUTENCAO,Excepturi molestiae quo.,12:00:00
+25,21,136,2878.67,MANUTENCAO,Unde ad praesentium laboriosam dolorum quibusdam ex.,12:00:00
+165,21,298,2581.76,MANUTENCAO,In expedita dolores architecto illum magnam qui.,12:00:00
+67,21,321,3349.73,MANUTENCAO,Totam laboriosam corrupti molestias porro quas dolore consectetur.,12:00:00
+76,21,316,1061.14,MANUTENCAO,Amet nobis deserunt ab quas dolore quisquam.,12:00:00
+220,21,139,3905.48,MANUTENCAO,Error id molestias.,12:00:00
+52,21,133,3793.46,MANUTENCAO,Architecto eligendi blanditiis ea consequatur quis distinctio.,12:00:00
+253,21,240,1428.13,MANUTENCAO,Deserunt magni distinctio pariatur quaerat libero maxime.,12:00:00
+98,21,177,4825.31,MANUTENCAO,Rerum exercitationem doloribus at unde ea nisi dicta.,12:00:00
+231,21,333,319.77,MANUTENCAO,Autem alias suscipit totam eum commodi eum.,12:00:00
+109,21,267,728.52,MANUTENCAO,Recusandae aperiam nobis saepe eum facilis.,12:00:00
+111,21,264,4660.75,MANUTENCAO,Quas inventore asperiores.,12:00:00
+175,21,308,4326.67,MANUTENCAO,Consectetur excepturi doloremque nisi.,12:00:00
+183,21,258,1547.11,MANUTENCAO,Voluptatum exercitationem commodi eum debitis repellat nam.,12:00:00
+208,21,352,2985.31,MANUTENCAO,Adipisci assumenda ex possimus unde repellat nostrum.,12:00:00
+79,21,104,3446.09,MANUTENCAO,Ut animi aliquam pariatur.,12:00:00
+45,21,38,2845.93,MANUTENCAO,Nihil suscipit illo quia culpa dolorum laborum laborum.,12:00:00
+251,21,65,2936.29,MANUTENCAO,Delectus quis recusandae perferendis.,12:00:00
+40,21,304,1223.62,MANUTENCAO,Reiciendis quibusdam minima.,12:00:00
+194,21,320,3745.96,MANUTENCAO,Alias explicabo ea aliquam beatae.,12:00:00
+253,21,50,2672.85,MANUTENCAO,Aperiam quas iste ullam saepe.,12:00:00
+169,21,248,2781.41,MANUTENCAO,Fugiat numquam earum consequuntur corrupti nesciunt fugiat.,12:00:00
+78,21,172,481.11,MANUTENCAO,Explicabo facere tempora.,12:00:00
+229,21,161,566.50,MANUTENCAO,Hic labore accusamus iste qui quaerat.,12:00:00
+34,21,46,4282.82,MANUTENCAO,Dolorum quasi accusamus nihil consequatur architecto.,12:00:00
+66,21,243,1099.75,MANUTENCAO,Repellendus autem repellendus adipisci.,12:00:00
+286,21,179,716.31,MANUTENCAO,Totam nihil recusandae quaerat facilis impedit.,12:00:00
+183,21,261,1911.38,MANUTENCAO,Odio facere beatae at vero quibusdam.,12:00:00
+199,21,203,4369.87,MANUTENCAO,Ratione suscipit amet mollitia.,12:00:00
+115,21,262,2864.80,MANUTENCAO,Labore quo sint itaque.,12:00:00
+87,21,106,352.89,MANUTENCAO,Laudantium nulla eum.,12:00:00
+14,21,292,1003.65,MANUTENCAO,Occaecati reiciendis corrupti qui iusto velit blanditiis.,12:00:00
+251,21,109,3648.16,MANUTENCAO,Libero assumenda optio dicta dignissimos.,12:00:00
+195,21,117,2101.72,MANUTENCAO,Nostrum culpa enim quasi repellendus reiciendis ipsam.,12:00:00
+60,21,124,1459.06,MANUTENCAO,Corporis repudiandae perferendis maxime fuga perferendis minus sint.,12:00:00
+142,21,249,3737.89,MANUTENCAO,Occaecati atque placeat.,12:00:00
+183,21,41,3341.49,MANUTENCAO,Molestias dicta qui dolore.,12:00:00
+142,21,294,3370.49,MANUTENCAO,Quas veritatis nulla sunt architecto dolor.,12:00:00
+57,21,211,1222.92,MANUTENCAO,Optio maxime voluptas veniam perferendis hic architecto.,12:00:00
+215,21,275,1808.67,MANUTENCAO,Cum fugiat laudantium tempore iste.,12:00:00
+218,21,334,3670.70,MANUTENCAO,Aliquam quidem explicabo voluptates.,12:00:00
+168,21,337,2797.91,MANUTENCAO,Molestias ab quas neque ex ab.,12:00:00
+300,21,194,3396.24,MANUTENCAO,Facere aperiam doloremque temporibus beatae modi.,12:00:00
+29,21,272,3723.03,MANUTENCAO,In saepe ipsa aliquid provident in rem.,12:00:00
+149,21,97,4187.94,MANUTENCAO,Incidunt debitis explicabo similique deserunt corporis beatae.,12:00:00
+80,21,326,2915.33,MANUTENCAO,Suscipit error dolorum provident dolor.,12:00:00
+82,21,268,2400.71,MANUTENCAO,Illo porro illo libero blanditiis.,12:00:00
+158,21,155,4604.77,MANUTENCAO,Nisi dicta soluta debitis cumque accusamus fugit.,12:00:00
+301,21,170,4494.70,MANUTENCAO,Eveniet quisquam sapiente illo repellendus et.,12:00:00
+20,21,29,4454.25,MANUTENCAO,Aperiam ad ex.,12:00:00
+89,21,214,3953.54,MANUTENCAO,Rem deleniti voluptatum dolorem a odio.,12:00:00
+2,21,90,3316.85,MANUTENCAO,Quam libero inventore nostrum esse iste laborum.,12:00:00
+257,21,268,466.93,MANUTENCAO,Nobis fugit deleniti aspernatur asperiores incidunt.,12:00:00
+22,21,285,2236.33,MANUTENCAO,Doloribus necessitatibus accusamus mollitia soluta eligendi libero.,12:00:00
+216,21,350,1609.35,MANUTENCAO,Vitae maxime esse eum adipisci necessitatibus.,12:00:00
+149,21,229,891.72,MANUTENCAO,Quas eius a omnis autem.,12:00:00
+132,21,46,4366.50,MANUTENCAO,Dolorum magnam sapiente.,12:00:00
+108,21,329,1379.38,MANUTENCAO,Officia assumenda voluptates veniam eveniet odit fugiat laborum.,12:00:00
+26,21,329,2687.07,MANUTENCAO,Error possimus molestiae harum at aliquam voluptates.,12:00:00
+269,21,297,404.07,MANUTENCAO,In repellat molestias dolore ullam laboriosam consectetur.,12:00:00
+23,21,119,2347.32,MANUTENCAO,Occaecati amet optio culpa.,12:00:00
+24,21,359,4952.98,MANUTENCAO,Architecto voluptatum saepe dolores sed quibusdam consectetur animi.,12:00:00
+225,21,109,2161.49,MANUTENCAO,Sint cum in itaque.,12:00:00
+260,21,237,2338.79,MANUTENCAO,Voluptatem voluptas voluptatibus cum deleniti porro.,12:00:00
+143,21,136,4373.30,MANUTENCAO,Minus velit eos voluptas.,12:00:00
+67,21,235,432.38,MANUTENCAO,Atque voluptas corrupti aliquid vero.,12:00:00
+193,21,359,2101.06,MANUTENCAO,Nisi inventore incidunt ea.,12:00:00
+296,21,359,1409.20,MANUTENCAO,Ea officia harum quibusdam dolor.,12:00:00
+258,21,99,3031.09,MANUTENCAO,Doloremque repudiandae repudiandae nisi consequatur.,12:00:00
+107,21,41,4039.46,MANUTENCAO,Nisi asperiores modi aliquam.,12:00:00
+26,21,365,597.79,MANUTENCAO,Autem neque id maiores.,12:00:00
+110,21,71,2104.18,MANUTENCAO,Nesciunt perferendis numquam minima esse.,12:00:00
+207,21,60,3186.82,MANUTENCAO,Omnis quaerat ipsa eveniet accusantium vitae.,12:00:00
+59,21,260,2741.98,MANUTENCAO,Harum voluptates suscipit unde illo officiis delectus.,12:00:00
+311,21,173,2092.50,MANUTENCAO,Amet ea minima dolore quo quod quod.,12:00:00
+150,21,106,4525.34,MANUTENCAO,Officiis tenetur fugiat illo ab veniam nesciunt.,12:00:00
+87,21,71,3416.80,MANUTENCAO,Perspiciatis molestiae atque culpa.,12:00:00
+50,21,222,2175.90,MANUTENCAO,Ab mollitia ab quibusdam porro.,12:00:00
+107,21,58,1976.26,MANUTENCAO,Fugit impedit odit officia corrupti suscipit.,12:00:00
+12,21,185,4662.70,MANUTENCAO,At cum minus quae.,12:00:00
+54,21,88,418.92,MANUTENCAO,Officia atque saepe porro fugit iste id.,12:00:00
+6,21,260,1863.67,MANUTENCAO,Molestias expedita ut distinctio atque.,12:00:00
+119,21,320,1411.41,MANUTENCAO,Similique alias ea officiis officia dolore maxime saepe.,12:00:00
+229,21,220,4330.30,MANUTENCAO,Officia quis porro neque quisquam.,12:00:00
+77,21,163,3468.35,MANUTENCAO,Aspernatur rerum illo a dicta nam consequuntur.,12:00:00
+54,21,386,168.65,MANUTENCAO,Esse rem odio quidem deleniti adipisci.,12:00:00
+36,21,163,4992.83,MANUTENCAO,Expedita aliquid necessitatibus dolores ad saepe.,12:00:00
+232,21,74,3207.21,MANUTENCAO,Pariatur ipsum velit provident quasi occaecati.,12:00:00
+235,21,216,1983.24,MANUTENCAO,Qui magnam repudiandae itaque.,12:00:00
+160,21,339,4913.16,MANUTENCAO,Atque occaecati ratione minus voluptatum nemo.,12:00:00
+244,21,84,909.14,MANUTENCAO,Alias exercitationem vero neque consectetur enim nostrum.,12:00:00
+74,21,181,352.40,MANUTENCAO,Fuga eum nesciunt corporis nemo temporibus.,12:00:00
+99,21,369,3532.74,MANUTENCAO,Sit harum illum quidem.,12:00:00
+79,21,125,1782.76,MANUTENCAO,Blanditiis fugiat magnam neque iure.,12:00:00
+105,21,341,4392.36,MANUTENCAO,Facere repellendus dolore vel minima assumenda cumque.,12:00:00
+174,21,216,1061.05,MANUTENCAO,Sapiente itaque at eos aut consequatur natus similique.,12:00:00
+90,21,256,994.09,MANUTENCAO,Blanditiis alias dignissimos tempora nam incidunt.,12:00:00
+288,21,197,242.28,MANUTENCAO,Quo laudantium earum repellat eligendi sit.,12:00:00
+39,21,242,1152.33,MANUTENCAO,Placeat voluptatum recusandae veniam tempora accusantium.,12:00:00
+193,21,110,1186.77,MANUTENCAO,Ad cumque voluptates voluptatibus atque.,12:00:00
+251,21,253,2192.14,MANUTENCAO,Nulla delectus ipsam praesentium mollitia.,12:00:00
+76,21,247,1347.83,MANUTENCAO,Laboriosam explicabo quo numquam quaerat aspernatur et.,12:00:00
+70,21,162,361.52,MANUTENCAO,Veniam nisi harum odio tempore adipisci.,12:00:00
+233,21,314,3596.52,MANUTENCAO,Cum vero a dolor laborum necessitatibus.,12:00:00
+216,21,153,2613.32,MANUTENCAO,Natus dolorem repellat.,12:00:00
+104,21,150,2641.99,MANUTENCAO,Dignissimos aspernatur quia error delectus.,12:00:00
+20,21,200,2537.89,MANUTENCAO,Enim odit eveniet repellendus voluptatum enim.,12:00:00
+195,21,285,4467.11,MANUTENCAO,Explicabo provident dignissimos culpa.,12:00:00
+229,21,337,244.54,MANUTENCAO,Voluptate velit quisquam eveniet repellat aliquam debitis.,12:00:00
+200,21,263,1435.19,MANUTENCAO,Illum cupiditate ea quis nulla placeat.,12:00:00
+68,21,30,4990.95,MANUTENCAO,Quidem illo beatae eum quia eveniet omnis.,12:00:00
+98,21,102,1130.77,MANUTENCAO,Quasi repudiandae aperiam ut.,12:00:00
+6,21,122,2730.33,MANUTENCAO,Quo maxime adipisci tenetur impedit consequatur quia.,12:00:00
+152,21,312,168.04,MANUTENCAO,Excepturi voluptatum rerum temporibus nemo rem doloremque.,12:00:00
+197,21,261,3596.53,MANUTENCAO,Assumenda enim voluptate alias.,12:00:00
+112,21,297,932.85,MANUTENCAO,Reprehenderit sunt mollitia tempore.,12:00:00
+100,21,293,1358.69,MANUTENCAO,Autem nisi odit eos.,12:00:00
+66,21,134,3820.25,MANUTENCAO,Voluptatum incidunt cumque.,12:00:00
+119,21,30,3611.59,MANUTENCAO,Quae qui cumque optio modi laudantium aspernatur.,12:00:00
+56,21,394,4472.85,MANUTENCAO,Unde soluta explicabo accusantium debitis error.,12:00:00
+18,21,254,4836.29,MANUTENCAO,Magni molestias eos ipsa.,12:00:00
+46,21,101,3130.66,MANUTENCAO,Ipsum similique voluptates.,12:00:00
+1,21,257,4326.19,MANUTENCAO,Dolores dignissimos tenetur quidem a.,12:00:00
+117,21,20,864.80,MANUTENCAO,Ipsum porro possimus.,12:00:00
+184,21,30,1424.77,MANUTENCAO,Dolorum quasi optio rerum.,12:00:00
+234,21,103,4250.05,MANUTENCAO,Dignissimos dolorem autem sunt neque adipisci.,12:00:00
+241,21,26,996.65,MANUTENCAO,Delectus sequi nemo laborum.,12:00:00
+307,21,288,1920.89,MANUTENCAO,Pariatur aliquid porro facilis.,12:00:00
+168,21,46,2803.84,MANUTENCAO,Sint suscipit necessitatibus eos qui.,12:00:00
+189,21,274,151.74,MANUTENCAO,Facilis velit quos quos porro molestias est.,12:00:00
+45,21,35,394.21,MANUTENCAO,Blanditiis accusantium eum fuga molestias autem iusto nisi.,12:00:00
+11,21,180,1936.15,MANUTENCAO,Quos rem cumque eaque.,12:00:00
+156,21,178,3917.59,MANUTENCAO,Quasi dolorem quisquam.,12:00:00
+241,21,149,1818.61,MANUTENCAO,Quam consequatur explicabo provident illo modi facilis assumenda.,12:00:00
+96,21,96,2096.87,MANUTENCAO,Deleniti nulla eligendi quaerat earum similique numquam.,12:00:00
+46,21,336,425.44,MANUTENCAO,At suscipit eveniet nesciunt ipsam.,12:00:00
+13,21,196,969.51,MANUTENCAO,Atque accusantium reiciendis.,12:00:00
+57,21,17,2985.22,MANUTENCAO,Corporis explicabo harum suscipit.,12:00:00
+76,21,371,4957.60,MANUTENCAO,Doloribus dignissimos consectetur vitae.,12:00:00
+190,21,168,2648.12,MANUTENCAO,Modi occaecati officia tempore consequuntur voluptates dolorem.,12:00:00
+141,21,256,4756.65,MANUTENCAO,Facere voluptatem officiis quam quasi neque.,12:00:00
+72,21,158,697.44,MANUTENCAO,Dolorum saepe voluptatibus voluptate hic autem.,12:00:00
+285,21,328,542.95,MANUTENCAO,Libero dolores incidunt.,12:00:00
+39,21,143,404.13,MANUTENCAO,Eos earum fuga incidunt voluptates.,12:00:00
+175,21,163,3492.52,MANUTENCAO,Magnam magni eos harum natus necessitatibus.,12:00:00
+66,21,132,2039.46,MANUTENCAO,Quod voluptate iste tenetur perspiciatis.,12:00:00
+276,21,54,906.13,MANUTENCAO,Quaerat quae ullam tempora deleniti.,12:00:00
+288,21,373,4607.02,MANUTENCAO,Occaecati numquam ea vitae enim sint qui.,12:00:00
+211,21,226,1239.04,MANUTENCAO,Quidem aliquid minima suscipit.,12:00:00
+232,21,88,522.11,MANUTENCAO,Odio eligendi quae.,12:00:00
+244,21,232,275.33,MANUTENCAO,Quasi fugiat illo magnam natus.,12:00:00
+135,21,238,852.77,MANUTENCAO,Reprehenderit delectus libero laudantium maiores.,12:00:00
+42,21,89,3858.13,MANUTENCAO,Quae quo tempora rem animi modi culpa.,12:00:00
+217,21,59,4599.44,MANUTENCAO,Culpa vitae consequuntur ipsa.,12:00:00
+256,21,254,4784.39,MANUTENCAO,Natus sint harum velit.,12:00:00
+62,21,274,2767.06,MANUTENCAO,Dignissimos atque vel consectetur sunt.,12:00:00
+272,21,148,1951.07,MANUTENCAO,Sunt quasi dolorum praesentium aliquam.,12:00:00
+68,21,27,1184.19,MANUTENCAO,Aut harum suscipit aperiam fugit cupiditate aliquid occaecati.,12:00:00
+305,21,351,4780.85,MANUTENCAO,Labore eligendi architecto magnam culpa earum totam quae.,12:00:00
+161,21,305,713.32,MANUTENCAO,Illum est aperiam laborum dignissimos saepe.,12:00:00
+139,21,327,1981.28,MANUTENCAO,Quasi veritatis labore.,12:00:00
+16,21,112,3710.31,MANUTENCAO,Nesciunt delectus corporis ut laudantium.,12:00:00
+53,21,389,4512.17,MANUTENCAO,Eveniet cumque perferendis quasi voluptatum.,12:00:00
+139,21,52,3787.56,MANUTENCAO,Eum impedit mollitia quis autem.,12:00:00
+66,21,336,4240.90,MANUTENCAO,Explicabo similique animi beatae harum a possimus.,12:00:00
+160,21,276,1698.10,MANUTENCAO,Veniam eveniet nisi eum.,12:00:00
+298,21,331,4726.30,MANUTENCAO,Placeat magni possimus magni harum laudantium et asperiores.,12:00:00
+261,21,146,3360.83,MANUTENCAO,Placeat fuga sint odio eveniet aliquid accusamus.,12:00:00
+126,21,37,2177.29,MANUTENCAO,Quidem omnis aliquid ipsa deleniti nostrum.,12:00:00
+312,21,406,641.79,MANUTENCAO,Provident doloribus adipisci delectus a.,12:00:00
+166,21,55,4360.66,MANUTENCAO,Aliquid vitae tenetur occaecati omnis voluptate.,12:00:00
+214,21,353,2248.84,MANUTENCAO,Omnis ducimus vero earum.,12:00:00
+76,21,105,1945.93,MANUTENCAO,Voluptate unde corporis qui quis.,12:00:00
+25,21,223,2510.52,MANUTENCAO,Quasi architecto voluptates cum.,12:00:00
+19,21,340,2382.49,MANUTENCAO,Dolore alias reiciendis aliquid nemo exercitationem alias debitis.,12:00:00
+235,21,332,932.91,MANUTENCAO,Alias a quae enim reprehenderit.,12:00:00
+43,21,244,4209.61,MANUTENCAO,Fuga sapiente soluta dignissimos molestias magnam blanditiis.,12:00:00
+73,21,84,3448.34,MANUTENCAO,Assumenda sequi cupiditate architecto ex.,12:00:00
+88,21,88,2788.08,MANUTENCAO,Sunt magnam nam vel unde voluptatum exercitationem.,12:00:00
+16,21,281,679.97,MANUTENCAO,Deserunt sed mollitia tenetur et sed.,12:00:00
+274,21,100,4012.04,MANUTENCAO,Omnis ducimus velit ipsum sint vel.,12:00:00
+70,21,11,933.53,MANUTENCAO,Assumenda neque quam provident.,12:00:00
+32,21,137,3053.56,MANUTENCAO,Provident asperiores quod aspernatur.,12:00:00
+231,21,195,3565.83,MANUTENCAO,Facilis corrupti quis vel consequatur consequatur libero.,12:00:00
+46,21,131,3798.39,MANUTENCAO,Quis eveniet nam.,12:00:00
+88,21,314,4350.46,MANUTENCAO,Ratione doloribus cupiditate earum amet.,12:00:00
+152,21,233,2847.83,MANUTENCAO,Eos eum placeat dolorum libero.,12:00:00
+267,21,325,2201.52,MANUTENCAO,Blanditiis fugit quod delectus unde ad.,12:00:00
+286,21,41,3547.99,MANUTENCAO,Voluptates alias placeat cupiditate rerum temporibus.,12:00:00
+41,21,228,3129.96,MANUTENCAO,Cupiditate illum incidunt consequatur tempore.,12:00:00
+96,21,65,3548.00,MANUTENCAO,Dignissimos ipsam sapiente.,12:00:00
+243,21,115,2168.07,MANUTENCAO,Illo laudantium numquam nostrum.,12:00:00
+266,21,273,183.53,MANUTENCAO,Maiores necessitatibus dolor accusantium.,12:00:00
+192,21,290,4686.37,MANUTENCAO,Veniam dolorum aliquid impedit veritatis ducimus.,12:00:00
+47,21,310,4523.52,MANUTENCAO,Maiores ex aut ut.,12:00:00
+130,21,358,1486.40,MANUTENCAO,Nobis et numquam est animi assumenda eum.,12:00:00
+123,21,32,3398.16,MANUTENCAO,Alias aliquam fuga laborum consectetur veritatis sint.,12:00:00
+292,21,304,635.56,MANUTENCAO,Temporibus ipsum blanditiis explicabo voluptate repudiandae.,12:00:00
+47,21,391,109.44,MANUTENCAO,Reiciendis doloribus dolores aspernatur.,12:00:00
+64,21,338,1512.30,MANUTENCAO,Possimus quos impedit atque.,12:00:00
+296,21,70,688.98,MANUTENCAO,Quae hic est dolorum facere voluptate ducimus.,12:00:00
+106,21,220,315.05,MANUTENCAO,Nesciunt sunt aliquid optio sed repellat.,12:00:00
+232,21,354,2437.03,MANUTENCAO,Cumque rem velit iste ipsa.,12:00:00
+20,21,105,1240.60,MANUTENCAO,Maiores quae quis aspernatur exercitationem reprehenderit ab.,12:00:00
+113,21,184,1390.17,MANUTENCAO,Hic rem voluptatibus nisi quos odit necessitatibus.,12:00:00
+223,21,273,3997.86,MANUTENCAO,Quisquam eos ut harum.,12:00:00
+22,21,278,1628.36,MANUTENCAO,Culpa ut expedita sint.,12:00:00
+227,21,353,3505.05,MANUTENCAO,Modi repellat eaque saepe quos deleniti.,12:00:00
+130,21,83,2039.93,MANUTENCAO,Quas odit rem exercitationem soluta accusantium suscipit.,12:00:00
+128,21,157,1619.19,MANUTENCAO,Earum iusto rerum eius voluptatum.,12:00:00
+229,21,286,3478.35,MANUTENCAO,Recusandae odio quam libero.,12:00:00
+157,21,217,2424.22,MANUTENCAO,Aut accusamus provident occaecati accusantium aut.,12:00:00
+285,21,36,2171.55,MANUTENCAO,Earum impedit ullam dolor saepe nemo veritatis.,12:00:00
+54,21,131,776.08,MANUTENCAO,Praesentium earum ducimus ullam eligendi quo libero.,12:00:00
+212,21,139,4883.29,MANUTENCAO,Nihil nemo tempora saepe aut officiis illum minus.,12:00:00
+93,21,133,2227.93,MANUTENCAO,Aliquid voluptate in a.,12:00:00
+87,21,55,287.56,MANUTENCAO,Eos occaecati rem atque officiis quidem dolore.,12:00:00
+272,21,90,3585.68,MANUTENCAO,Asperiores porro odio.,12:00:00
+145,21,134,1666.85,MANUTENCAO,Temporibus illo doloribus fugiat saepe corrupti.,12:00:00
+264,21,35,3069.89,MANUTENCAO,Omnis officiis similique aperiam quisquam.,12:00:00
+61,21,227,2008.96,MANUTENCAO,Voluptas reiciendis et itaque.,12:00:00
+103,21,145,4382.20,MANUTENCAO,Dolores repudiandae laudantium rem architecto laboriosam.,12:00:00
+298,21,13,1773.16,MANUTENCAO,Reprehenderit dolore harum quisquam alias enim.,12:00:00
+211,21,73,3424.05,MANUTENCAO,Eligendi ex porro eveniet aperiam enim.,12:00:00
+191,21,393,2369.83,MANUTENCAO,Perferendis quisquam officia pariatur iusto quidem ipsa.,12:00:00
+252,21,177,3909.86,MANUTENCAO,Deserunt eveniet repellat cupiditate.,12:00:00
+270,21,263,3423.83,MANUTENCAO,Possimus cupiditate dolorem veritatis at.,12:00:00
+247,21,190,4259.18,MANUTENCAO,Facere est magni est aut consectetur.,12:00:00
+295,21,268,4926.11,MANUTENCAO,Ipsum quisquam architecto accusamus in nemo ut dignissimos.,12:00:00
+170,21,117,2464.40,MANUTENCAO,Illo itaque aliquid dolor est sequi.,12:00:00
+271,21,113,2554.60,MANUTENCAO,Ad praesentium vitae nostrum aut.,12:00:00
+149,21,172,1603.36,MANUTENCAO,Sapiente laboriosam doloribus dolore commodi impedit.,12:00:00
+122,21,52,1545.18,MANUTENCAO,Laborum praesentium adipisci nemo.,12:00:00
+131,21,195,3208.50,MANUTENCAO,Doloremque possimus totam libero deserunt.,12:00:00
+113,21,97,1965.44,MANUTENCAO,Dignissimos doloribus aut autem.,12:00:00
+250,21,141,3682.48,MANUTENCAO,Neque perspiciatis ad fugiat quae.,12:00:00
+40,21,385,4174.28,MANUTENCAO,Quo beatae quam.,12:00:00
+35,21,56,2402.40,MANUTENCAO,Molestiae pariatur rem quo consectetur.,12:00:00
+270,21,298,721.14,MANUTENCAO,Quae provident modi animi repellat.,12:00:00
+101,21,375,1617.03,MANUTENCAO,Aliquam tenetur iste praesentium.,12:00:00
+53,21,358,939.61,MANUTENCAO,Voluptas vitae voluptas laudantium.,12:00:00
+176,21,351,2858.58,MANUTENCAO,Qui alias voluptas ipsam.,12:00:00
+230,21,391,2216.24,MANUTENCAO,Quam hic necessitatibus ipsam odio ipsum.,12:00:00
+28,21,274,1201.43,MANUTENCAO,Debitis commodi consequuntur minima occaecati.,12:00:00
+112,21,207,2683.30,MANUTENCAO,Ab dolores laborum porro suscipit quidem officiis.,12:00:00
+293,21,365,926.04,MANUTENCAO,Debitis deleniti veniam animi quis et.,12:00:00
+34,21,364,3216.30,MANUTENCAO,Officiis recusandae impedit.,12:00:00
+62,21,336,184.99,MANUTENCAO,Ea iure tempora quam ex tenetur pariatur.,12:00:00
+53,21,416,638.67,MANUTENCAO,Vero distinctio at neque temporibus dolores consequuntur ut.,12:00:00
+219,21,378,862.52,MANUTENCAO,Porro accusantium ex accusantium quia omnis amet.,12:00:00
+251,21,120,2239.27,MANUTENCAO,Voluptates id magni alias autem modi quis.,12:00:00
+20,21,283,3155.81,MANUTENCAO,Laborum eos necessitatibus molestias aspernatur corrupti.,12:00:00
+105,21,388,1147.87,MANUTENCAO,Veniam saepe explicabo inventore.,12:00:00
+291,21,394,4177.75,MANUTENCAO,Consectetur blanditiis cum perspiciatis eligendi tenetur nihil.,12:00:00
+197,21,138,178.16,MANUTENCAO,Voluptas in dignissimos ipsum vel facere.,12:00:00
+108,21,296,4326.61,MANUTENCAO,Amet iure quos mollitia voluptatum id dolores.,12:00:00
+237,21,402,3032.92,MANUTENCAO,Adipisci maiores nemo aliquid quae quas architecto.,12:00:00
+271,21,156,4683.22,MANUTENCAO,Necessitatibus a nulla doloremque architecto placeat doloribus.,12:00:00
+274,21,296,1669.35,MANUTENCAO,Nostrum quod ducimus quo rerum officia.,12:00:00
+236,21,407,1376.86,MANUTENCAO,Molestias minima illo vel accusamus tempora.,12:00:00
+178,21,358,4632.53,MANUTENCAO,Aspernatur quae fugit optio nihil.,12:00:00
+54,21,258,3382.31,MANUTENCAO,Nobis fugiat distinctio non quasi.,12:00:00
+303,21,285,4675.32,MANUTENCAO,Harum nostrum corrupti non repudiandae.,12:00:00
+207,21,202,807.67,MANUTENCAO,Repellat at ex temporibus inventore.,12:00:00
+268,21,179,4097.64,MANUTENCAO,Autem iure rem animi autem aut.,12:00:00
+23,21,192,4065.37,MANUTENCAO,Porro unde amet omnis animi nobis perferendis.,12:00:00
+145,21,74,211.76,MANUTENCAO,Nisi alias corporis similique blanditiis odio.,12:00:00
+145,21,67,1071.17,MANUTENCAO,Incidunt ab dicta ipsum quasi rem aut.,12:00:00
+291,21,434,1116.88,MANUTENCAO,Temporibus laudantium autem laudantium.,12:00:00
+170,21,351,1833.48,MANUTENCAO,Alias rem quaerat quos iusto soluta sunt dignissimos.,12:00:00
+145,21,154,839.37,MANUTENCAO,Ipsa explicabo eligendi quia.,12:00:00
+191,21,386,237.44,MANUTENCAO,Voluptas sed maiores.,12:00:00
+265,21,236,1679.07,MANUTENCAO,Quo optio cumque nemo culpa minima.,12:00:00
+83,21,233,4449.33,MANUTENCAO,Cupiditate impedit libero totam suscipit sit.,12:00:00
+4,21,266,3272.10,MANUTENCAO,Est necessitatibus vel vel facere alias laudantium.,12:00:00
+35,21,107,3022.67,MANUTENCAO,Hic velit asperiores.,12:00:00
+58,21,443,818.55,MANUTENCAO,Ratione corporis voluptates aut.,12:00:00
+42,21,281,3436.75,MANUTENCAO,Illo deleniti hic sint.,12:00:00
+248,21,149,2357.35,MANUTENCAO,Mollitia architecto velit.,12:00:00
+288,21,267,1993.78,MANUTENCAO,Suscipit reiciendis dolores ipsum.,12:00:00
+291,21,166,3516.35,MANUTENCAO,Numquam rerum debitis eos unde eos.,12:00:00
+227,21,230,1532.59,MANUTENCAO,Adipisci nemo minus ut porro officia harum praesentium.,12:00:00
+141,21,170,296.94,MANUTENCAO,Laboriosam doloremque laborum aliquid.,12:00:00
+41,21,210,1464.63,MANUTENCAO,Blanditiis sequi ipsam atque perspiciatis reprehenderit.,12:00:00
+76,21,439,1694.62,MANUTENCAO,Atque totam animi.,12:00:00
+85,21,155,4946.86,MANUTENCAO,Dicta cum magni deleniti.,12:00:00
+204,21,51,4050.98,MANUTENCAO,Quidem dolore quod dolor distinctio.,12:00:00
+160,21,383,2917.05,MANUTENCAO,Nisi excepturi vel ea quae rem.,12:00:00
+252,21,144,1714.22,MANUTENCAO,Aliquam minus ex nesciunt iure.,12:00:00
+229,21,280,1385.78,MANUTENCAO,Velit voluptas ex deleniti dolorum sit incidunt amet.,12:00:00
+104,21,253,1402.16,MANUTENCAO,Eaque perferendis recusandae minima eos.,12:00:00
+267,21,422,3496.87,MANUTENCAO,At quaerat sed nihil tempora at commodi.,12:00:00
+289,21,18,3077.34,MANUTENCAO,Et nisi facere odio.,12:00:00
+149,21,153,1270.20,MANUTENCAO,Repellat modi nulla harum consequuntur cum.,12:00:00
+97,21,256,3234.63,MANUTENCAO,Mollitia quasi ullam at animi tempore dolorum facere.,12:00:00
+222,21,362,3882.88,MANUTENCAO,Nostrum non corporis eum voluptates.,12:00:00
+150,21,119,1131.68,MANUTENCAO,Qui consequatur excepturi quasi.,12:00:00
+139,21,25,3599.03,MANUTENCAO,Possimus corporis ullam atque ducimus veniam voluptates.,12:00:00
+248,21,275,1305.77,MANUTENCAO,Aut assumenda optio debitis.,12:00:00
+71,21,373,3967.56,MANUTENCAO,Magni ad quis odio quis.,12:00:00
+278,21,296,1345.15,MANUTENCAO,Ratione quasi harum amet occaecati aut quibusdam.,12:00:00
+174,21,421,4665.27,MANUTENCAO,Cum atque provident repudiandae consectetur.,12:00:00
+176,21,71,3701.70,MANUTENCAO,Sit expedita quos.,12:00:00
+19,21,441,2207.72,MANUTENCAO,Provident ipsam facere in sunt.,12:00:00
+252,21,432,1529.29,MANUTENCAO,Natus aspernatur iusto consequatur provident recusandae ad.,12:00:00
+156,21,157,2968.22,MANUTENCAO,Numquam deleniti est autem.,12:00:00
+39,21,412,2172.42,MANUTENCAO,Nihil natus quaerat repellat nisi fugiat.,12:00:00
+216,21,417,1400.27,MANUTENCAO,Unde tenetur neque eaque labore aspernatur quos.,12:00:00
+278,21,452,3030.84,MANUTENCAO,Recusandae at nihil velit.,12:00:00
+192,21,11,3267.62,MANUTENCAO,Corporis doloremque maxime corrupti.,12:00:00
+137,21,445,2675.55,MANUTENCAO,Illum iste perspiciatis officiis.,12:00:00
+256,21,191,3131.15,MANUTENCAO,Repellendus quaerat quam.,12:00:00
+280,21,319,2389.36,MANUTENCAO,Hic vel quasi sequi dicta.,12:00:00
+17,21,40,1533.89,MANUTENCAO,Nisi maiores praesentium repellat neque vitae.,12:00:00
+140,21,335,4264.38,MANUTENCAO,Iure in sunt alias.,12:00:00
+208,21,160,2651.33,MANUTENCAO,Veritatis aperiam eum magni.,12:00:00
+27,21,426,1306.38,MANUTENCAO,Illo ut laudantium est.,12:00:00
+26,21,404,1446.58,MANUTENCAO,Quaerat esse atque beatae voluptatem ipsum voluptatibus.,12:00:00
+48,21,154,4024.39,MANUTENCAO,Explicabo earum numquam occaecati voluptatem.,12:00:00
+249,21,347,3755.49,MANUTENCAO,Repudiandae consectetur rem.,12:00:00
+106,21,340,4909.96,MANUTENCAO,Consectetur voluptas inventore magni sunt enim.,12:00:00
+306,21,52,730.16,MANUTENCAO,Rerum culpa illo dolore enim tenetur voluptatibus.,12:00:00
+14,21,234,2935.96,MANUTENCAO,Voluptate eligendi eos pariatur deleniti magnam aliquam mollitia.,12:00:00
+293,21,439,4659.32,MANUTENCAO,Sed ab numquam aut sit consequatur eius.,12:00:00
+162,21,429,587.02,MANUTENCAO,Occaecati necessitatibus pariatur molestiae sit accusantium laudantium.,12:00:00
+57,21,394,856.66,MANUTENCAO,Provident pariatur non voluptate delectus.,12:00:00
+54,21,144,1217.67,MANUTENCAO,Qui possimus cumque eligendi.,12:00:00
+161,21,230,2245.05,MANUTENCAO,Amet doloribus optio dolor deleniti quisquam consequatur.,12:00:00
+173,21,114,1074.71,MANUTENCAO,Corrupti velit sequi nostrum alias.,12:00:00
+269,21,352,3472.95,MANUTENCAO,Nostrum delectus iure corrupti beatae eius provident.,12:00:00
+50,21,307,2300.66,MANUTENCAO,Dolorum nam neque deleniti occaecati error.,12:00:00
+161,21,157,4846.22,MANUTENCAO,Suscipit mollitia recusandae repellendus at commodi.,12:00:00
+81,21,397,2474.89,MANUTENCAO,Tempora sed culpa asperiores.,12:00:00
+230,21,199,1212.66,MANUTENCAO,Ducimus in quaerat.,12:00:00
+273,21,122,3615.75,MANUTENCAO,Id veniam quo impedit.,12:00:00
+239,21,415,2707.16,MANUTENCAO,Dignissimos iste iste numquam numquam beatae.,12:00:00
+4,21,41,2978.54,MANUTENCAO,Occaecati consequuntur minus libero.,12:00:00
+192,21,194,544.62,MANUTENCAO,Enim ratione numquam a expedita blanditiis.,12:00:00
+145,21,299,4817.46,MANUTENCAO,Maxime totam assumenda dolorem.,12:00:00
+122,21,72,2038.71,MANUTENCAO,Nulla consequuntur nam voluptatem vel incidunt eveniet animi.,12:00:00
+69,21,134,3423.40,MANUTENCAO,Doloremque nihil placeat corporis quis.,12:00:00
+192,21,457,4928.96,MANUTENCAO,Quibusdam quisquam dolores nisi quo ex cumque mollitia.,12:00:00
+194,21,194,2854.01,MANUTENCAO,Natus minus repellendus minima neque.,12:00:00
+275,21,396,586.70,MANUTENCAO,Aliquam perspiciatis laborum hic quos excepturi nam culpa.,12:00:00
+125,21,149,2051.74,MANUTENCAO,Impedit illum ad vitae voluptates dolor quisquam sunt.,12:00:00
+33,21,427,1121.80,MANUTENCAO,Voluptate corrupti veritatis nulla aperiam numquam.,12:00:00
+6,21,147,4693.65,MANUTENCAO,Ex dolorem explicabo esse unde.,12:00:00
+126,21,432,290.53,MANUTENCAO,Asperiores eius in numquam.,12:00:00
+228,21,201,4938.13,MANUTENCAO,Illo temporibus nemo.,12:00:00
+101,21,369,2734.98,MANUTENCAO,A consequatur voluptates fugit.,12:00:00
+95,21,247,515.26,MANUTENCAO,Eligendi nostrum tempora a.,12:00:00
+194,21,392,3453.26,MANUTENCAO,Sequi blanditiis nisi et sequi iusto ducimus quaerat.,12:00:00
+290,21,336,4086.84,MANUTENCAO,Rerum praesentium eius error libero laborum.,12:00:00
+224,21,358,4436.46,MANUTENCAO,Natus at assumenda minima ab provident sint.,12:00:00
+274,21,380,2317.83,MANUTENCAO,Quasi minus molestias eaque ipsum rerum similique.,12:00:00
+146,21,85,604.00,MANUTENCAO,Adipisci inventore cupiditate maiores commodi commodi.,12:00:00
+9,21,19,304.84,MANUTENCAO,Et doloremque molestiae quo accusantium optio.,12:00:00
+63,21,25,4073.87,MANUTENCAO,Animi temporibus veniam repellendus doloribus repellendus corrupti.,12:00:00
+61,11,11,2650.00,FUNCIONARIO,Pagamento funcionário,12:00:00
+168,12,11,2750.00,FUNCIONARIO,Pagamento funcionário,12:00:00
+5,13,11,2850.00,FUNCIONARIO,Pagamento funcionário,12:00:00
+216,14,11,2950.00,FUNCIONARIO,Pagamento funcionário,12:00:00
+261,15,11,3050.00,FUNCIONARIO,Pagamento funcionário,12:00:00
+76,16,11,3150.00,FUNCIONARIO,Pagamento funcionário,12:00:00
+54,17,11,3250.00,FUNCIONARIO,Pagamento funcionário,12:00:00
+232,18,11,3350.00,FUNCIONARIO,Pagamento funcionário,12:00:00
+276,19,11,3450.00,FUNCIONARIO,Pagamento funcionário,12:00:00
+213,20,11,3550.00,FUNCIONARIO,Pagamento funcionário,12:00:00
+181,21,11,3650.00,FUNCIONARIO,Pagamento funcionário,12:00:00
+215,22,11,3750.00,FUNCIONARIO,Pagamento funcionário,12:00:00
+253,23,11,3850.00,FUNCIONARIO,Pagamento funcionário,12:00:00
+217,24,11,3950.00,FUNCIONARIO,Pagamento funcionário,12:00:00
+272,25,11,4050.00,FUNCIONARIO,Pagamento funcionário,12:00:00
+162,26,11,4150.00,FUNCIONARIO,Pagamento funcionário,12:00:00
+70,27,11,4250.00,FUNCIONARIO,Pagamento funcionário,12:00:00
+51,28,11,4350.00,FUNCIONARIO,Pagamento funcionário,12:00:00
+271,29,11,4450.00,FUNCIONARIO,Pagamento funcionário,12:00:00
+227,30,11,4550.00,FUNCIONARIO,Pagamento funcionário,12:00:00
